@@ -1,0 +1,552 @@
+year,start,band,day,stage
+2009,01 h 00 > 02 h 00,Mötley Crüe,Friday,Mainstage 01
+2009,22 h 50 > 23 h 50,Heaven and Hell,Friday,Mainstage 01
+2009,20 h 50 > 21 h 50,DownNote 4,Friday,Mainstage 01
+2009,19 h 05 > 19 h 55,Papa Roach,Friday,Mainstage 01
+2009,17 h 25 > 18 h 10,Buckcherry,Friday,Mainstage 01
+2009,15 h 55 > 16 h 35,Nashville Pussy,Friday,Mainstage 01
+2009,14 h 25 > 15 h 05,Backyard Babies,Friday,Mainstage 01
+2009,12 h 55 > 13 h 35,Girlschool,Friday,Mainstage 01
+2009,11 h 35 > 12 h 05,Squealer (de),Friday,Mainstage 01
+2009,01 h 00 > 02 h 00,Marilyn Manson,Saturday,Mainstage 01
+2009,22 h 50 > 23 h 50,Machine Head,Saturday,Mainstage 01
+2009,20 h 50 > 21 h 50,Gojira,Saturday,Mainstage 01
+2009,19 h 05 > 19 h 55,Soulfly,Saturday,Mainstage 01
+2009,17 h 25 > 18 h 10,Cradle of Filth,Saturday,Mainstage 01
+2009,15 h 55 > 16 h 35,DevilDriver,Saturday,Mainstage 01
+2009,14 h 25 > 15 h 05,Koritni,Saturday,Mainstage 01
+2009,12 h 55 > 13 h 35,Dagoba,Saturday,Mainstage 01
+2009,11 h 35 > 12 h 05,Gama Bomb,Saturday,Mainstage 01
+2009,01 h 00 > 02 h 00,Manowar,Sunday,Mainstage 01
+2009,22 h 50 > 23 h 50,Dream Theater,Sunday,Mainstage 01
+2009,20 h 50 > 21 h 50,Europe,Sunday,Mainstage 01
+2009,19 h 05 > 19 h 55,Queensrÿche,Sunday,Mainstage 01
+2009,17 h 25 > 18 h 10,Epica,Sunday,Mainstage 01
+2009,15 h 55 > 16 h 35,DragonForce,Sunday,Mainstage 01
+2009,14 h 25 > 15 h 05,Holyhell (en),Sunday,Mainstage 01
+2009,12 h 55 > 13 h 35,Satan Jokers,Sunday,Mainstage 01
+2009,11 h 35 > 12 h 05,Adagio,Sunday,Mainstage 01
+2009,23 h 55 > 00 h 55,Saint Vitus,Friday,Mainstage 02
+2009,21 h 55 > 22 h 45,AnthraxNote 1,Friday,Mainstage 02
+2009,20 h 00 > 20 h 45,W.A.S.P.,Friday,Mainstage 02
+2009,18 h 15 > 19 h :00,Voivod,Friday,Mainstage 02
+2009,16 h 40 > 17 h 20,???,Friday,Mainstage 02
+2009,15 h 10 > 15 h 50,EyehategodNote 5,Friday,Mainstage 02
+2009,13 h 40 > 14 h 20,God Forbid,Friday,Mainstage 02
+2009,23 h 55 > 00 h 55,Killing Joke,Saturday,Mainstage 02
+2009,21 h 55 > 22 h 45,Misfits,Saturday,Mainstage 02
+2009,20 h 00 > 20 h 45,Amebix,Saturday,Mainstage 02
+2009,18 h 15 > 19 h :00,Clutch,Saturday,Mainstage 02
+2009,16 h 40 > 17 h 20,Heaven Shall Burn,Saturday,Mainstage 02
+2009,15 h 10 > 15 h 50,Pain,Saturday,Mainstage 02
+2009,13 h 40 > 14 h 20,Mad Sin,Saturday,Mainstage 02
+2009,23 h 55 > 00 h 55,Hatebreed,Sunday,Mainstage 02
+2009,21 h 55 > 22 h 45,Suicidal Tendencies,Sunday,Mainstage 02
+2009,20 h 00 > 20 h 45,Mastodon,Sunday,Mainstage 02
+2009,18 h 15 > 19 h :00,Stratovarius,Sunday,Mainstage 02
+2009,16 h 40 > 17 h 20,Destruction,Sunday,Mainstage 02
+2009,15 h 10 > 15 h 50,Pain of Salvation,Sunday,Mainstage 02
+2009,13 h 40 > 14 h 20,VolbeatNote 1,Sunday,Mainstage 02
+2009,23 h 55 > 00 h 55,God Seed,Friday,Rock Hard tent
+2009,21 h 55 > 22 h 45,Repulsion,Friday,Rock Hard tent
+2009,20 h 00 > 20 h 45,Entombed,Friday,Rock Hard tent
+2009,18 h 15 > 19 h 00,Samael,Friday,Rock Hard tent
+2009,16 h 40 > 17 h 20,Misery Index,Friday,Rock Hard tent
+2009,15 h 10 > 15 h 50,Deströyer 666,Friday,Rock Hard tent
+2009,13 h 40 > 14 h 20,Taake,Friday,Rock Hard tent
+2009,23 h 55 > 00 h 55,Sacred Reich,Saturday,Rock Hard tent
+2009,21 h 55 > 22 h 45,Enslaved,Saturday,Rock Hard tent
+2009,20 h 00 > 20 h 45,Immolation,Saturday,Rock Hard tent
+2009,18 h 15 > 19 h 00,Moonsorrow,Saturday,Rock Hard tent
+2009,16 h 40 > 17 h 20,Aura Noir,Saturday,Rock Hard tent
+2009,15 h 10 > 15 h 50,Skinless,Saturday,Rock Hard tent
+2009,13 h 40 > 14 h 20,Vader,Saturday,Rock Hard tent
+2009,23 h 55 > 00 h 55,Amon Amarth,Sunday,Rock Hard tent
+2009,21 h 55 > 22 h 45,Moonspell,Sunday,Rock Hard tent
+2009,20 h 00 > 20 h 45,Cathedral,Sunday,Rock Hard tent
+2009,18 h 15 > 19 h 00,Napalm Death,Sunday,Rock Hard tent
+2009,16 h 40 > 17 h 20,Pestilence,Sunday,Rock Hard tent
+2009,15 h 10 > 15 h 50,Kataklysm,Sunday,Rock Hard tent
+2009,13 h 40 > 14 h 20,Keep of Kalessin,Sunday,Rock Hard tent
+2009,01 h 00 > 02 h 00,Parkway Drive,Friday,Terrorizer tent
+2009,22 h 50 > 23 h 50,Jarboe (en),Friday,Terrorizer tent
+2009,20 h 50 > 21 h 50,Pig Destroyer,Friday,Terrorizer tent
+2009,19 h 05 > 19 h 55,Kylesa,Friday,Terrorizer tent
+2009,17 h 25 > 18 h 10,Torche,Friday,Terrorizer tent
+2009,15 h 55 > 16 h 35,Soilent Green,Friday,Terrorizer tent
+2009,14 h 25 > 15 h 05,Blockheads,Friday,Terrorizer tent
+2009,01 h 00 > 02 h 00,Cro-Mags,Saturday,Terrorizer tent
+2009,22 h 50 > 23 h 50,Vision of Disorder,Saturday,Terrorizer tent
+2009,20 h 50 > 21 h 50,Kickback,Saturday,Terrorizer tent
+2009,19 h 05 > 19 h 55,Betrayed,Saturday,Terrorizer tent
+2009,17 h 25 > 18 h 10,The Business,Saturday,Terrorizer tent
+2009,15 h 55 > 16 h 35,Terror,Saturday,Terrorizer tent
+2009,14 h 25 > 15 h 05,All Shall Perish,Saturday,Terrorizer tent
+2009,01 h 00 > 02 h 00,Brutal Truth,Sunday,Terrorizer tent
+2009,22 h 50 > 23 h 50,Electric Wizard,Sunday,Terrorizer tent
+2009,20 h 50 > 21 h 50,Coalesce (en),Sunday,Terrorizer tent
+2009,19 h 05 > 19 h 55,The Black Dahlia Murder,Sunday,Terrorizer tent
+2009,17 h 25 > 18 h 10,Orange Goblin,Sunday,Terrorizer tent
+2009,15 h 55 > 16 h 35,Ufomammut,Sunday,Terrorizer tent
+2009,14 h 25 > 15 h 05,Wolves in the Throne Room,Sunday,Terrorizer tent
+2010,23 h 35 > 00 h 50,Fear Factory,Friday,Mainstage 01
+2010,21 h 10 > 22 h 25,Sepultura,Friday,Mainstage 01
+2010,19 h 00 > 20 h 00,Infectious Grooves,Friday,Mainstage 01
+2010,16 h 45 > 18 h 00,Deftones,Friday,Mainstage 01
+2010,15 h 05 > 15 h 50,KMFDM,Friday,Mainstage 01
+2010,13 h 35 > 14 h 15,Mass Hysteria,Friday,Mainstage 01
+2010,12 h 15 > 12 h 45,Evile,Friday,Mainstage 01
+2010,11 h 05 > 11 h 35,69 Chambers,Friday,Mainstage 01
+2010,23 h 35 > 00 h 50,Alice Cooper,Saturday,Mainstage 01
+2010,20 h 50 > 22 h 00,Twisted Sister,Saturday,Mainstage 01
+2010,18 h 50 > 19 h 50,Slash,Saturday,Mainstage 01
+2010,17 h 00 > 17 h 50,Airbourne,Saturday,Mainstage 01
+2010,15 h 15 > 16 h 00,Pretty Maids,Saturday,Mainstage 01
+2010,13 h 45 > 14 h 25,Y&T,Saturday,Mainstage 01
+2010,12 h 15 > 12 h 55,Delain,Saturday,Mainstage 01
+2010,11 h 05 > 11 h 35,Electric Mary,Saturday,Mainstage 01
+2010,23 h 00 > 01 h 00,Kiss,Sunday,Mainstage 01
+2010,20 h 50 > 21 h 50,Motörhead,Sunday,Mainstage 01
+2010,18 h 50 > 19 h 50,Stone Sour,Sunday,Mainstage 01
+2010,17 h 00 > 17 h 50,Saxon,Sunday,Mainstage 01
+2010,15 h 15 > 16 h 00,U.D.O.,Sunday,Mainstage 01
+2010,13 h 45 > 14 h 25,Primal Fear,Sunday,Mainstage 01
+2010,12 h 15 > 12 h 55,Freak Kitchen,Sunday,Mainstage 01
+2010,11 h 05 > 11 h 35,Vulcain,Sunday,Mainstage 01
+2010,00 h 55 > 02 h 00,Biohazard,Friday,Mainstage 02
+2010,22 h 30 > 23 h 30,Arch Enemy,Friday,Mainstage 02
+2010,20 h 05 > 21 h 05,Sick of It All,Friday,Mainstage 02
+2010,18 h 05 > 18 h 55,Hypocrisy,Friday,Mainstage 02
+2010,15 h 55 > 16 h 40,Walls of Jericho,Friday,Mainstage 02
+2010,14 h 20 > 15 h 00,Finntroll,Friday,Mainstage 02
+2010,12 h 50 > 13 h 30,Crowbar,Friday,Mainstage 02
+2010,11 h 40 > 12 h 10,Swallow the Sun,Friday,Mainstage 02
+2010,10 h 30 > 11 h 00,Gorod,Friday,Mainstage 02
+2010,01 h 00 > 02 h 00,Carcass,Saturday,Mainstage 02
+2010,22 h 05 > 23 h 20,Immortal,Saturday,Mainstage 02
+2010,19 h 55 > 20 h 45,Annihilator,Saturday,Mainstage 02
+2010,17 h 55 > 18 h 45,Nevermore,Saturday,Mainstage 02
+2010,16 h 05 > 16 h 55,Anvil,Saturday,Mainstage 02
+2010,14 h 30 > 15 h 10,Raven,Saturday,Mainstage 02
+2010,13 h 00 > 13 h 40,Tankard,Saturday,Mainstage 02
+2010,11 h 40 > 12 h 10,Tamtrum,Saturday,Mainstage 02
+2010,10 h 30 > 11 h 00,Dew-Scented,Saturday,Mainstage 02
+2010,21 h 55 > 22 h 55,Slayer,Sunday,Mainstage 02
+2010,19 h 55 > 20 h 45,Exodus,Sunday,Mainstage 02
+2010,17 h 55 > 18 h 45,Devin Townsend Project,Sunday,Mainstage 02
+2010,16 h 05 > 16 h 55,Behemoth,Sunday,Mainstage 02
+2010,14 h 30 > 15 h 10,Ensiferum,Sunday,Mainstage 02
+2010,13 h 00 > 13 h 40,Eluveitie,Sunday,Mainstage 02
+2010,11 h 40 > 12 h 10,Sabaton,Sunday,Mainstage 02
+2010,10 h 30 > 11 h 00,Blasphème,Sunday,Mainstage 02
+2010,01 h 00 > 02 h 00,Marduk,Friday,Rock Hard tent
+2010,23 h 00 > 00 h 00,Ulver,Friday,Rock Hard tent
+2010,21 h 00 > 22 h 00,Watain,Friday,Rock Hard tent
+2010,19 h 00 > 20 h 00,Loudblast,Friday,Rock Hard tent
+2010,17 h 10 > 18 h 00,Ihsahn,Friday,Rock Hard tent
+2010,15 h 05 > 15 h 50,Kampfar,Friday,Rock Hard tent
+2010,13 h 35 > 14 h 15,Necrophagist,Friday,Rock Hard tent
+2010,12 h 15 > 12 h 45,Urgehal,Friday,Rock Hard tent
+2010,11 h 05 > 11 h 35,Otargos,Friday,Rock Hard tent
+2010,23 h 55 > 00 h 55,Fields of the Nephilim,Saturday,Rock Hard tent
+2010,22 h 20 > 23 h 20,My Dying Bride,Saturday,Rock Hard tent
+2010,20 h 30 > 21 h 30,Candlemass,Saturday,Rock Hard tent
+2010,18 h 50 > 19 h 50,Dark Funeral,Saturday,Rock Hard tent
+2010,17 h 00 > 17 h 50,Sadist,Saturday,Rock Hard tent
+2010,15 h 15 > 16 h 00,Asphyx,Saturday,Rock Hard tent
+2010,13 h 45 > 14 h 25,Condkoï,Saturday,Rock Hard tent
+2010,12 h 15 > 12 h 55,Obscura,Saturday,Rock Hard tent
+2010,11 h 05 > 11 h 35,Kalisia,Saturday,Rock Hard tent
+2010,23 h 30 > 00 h 30,Bloodbath,Sunday,Rock Hard tent
+2010,20 h 50 > 21 h 50,Nile,Sunday,Rock Hard tent
+2010,18 h 50 > 19 h 50,Suffocation,Sunday,Rock Hard tent
+2010,17 h 00 > 17 h 50,Katatonia,Sunday,Rock Hard tent
+2010,15 h 15 > 16 h 00,???,Sunday,Rock Hard tent
+2010,13 h 45 > 14 h 25,Decapitated,Sunday,Rock Hard tent
+2010,12 h 15 > 12 h 55,Ex Deo,Sunday,Rock Hard tent
+2010,11 h 05 > 11 h 35,General Surgery (en),Sunday,Rock Hard tent
+2010,00 h 00 > 01 h 00,The Devil's Blood,Friday,Terrorizer tent
+2010,22 h 00 > 23 h 00,Godflesh,Friday,Terrorizer tent
+2010,20 h 45 > 21 h 30,The Young Gods,Friday,Terrorizer tent
+2010,19 h 30 > 20 h 15,Sybreed,Friday,Terrorizer tent
+2010,18 h 20 > 19 h 00,Monkey 3,Friday,Terrorizer tent
+2010,17 h 10 > 17 h 50,Between the Buried and Me,Friday,Terrorizer tent
+2010,16 h 00 > 16 h 40,Secret of the Moon,Friday,Terrorizer tent
+2010,14 h 50 > 15 h 30,Ghost Brigade (en),Friday,Terrorizer tent
+2010,13 h 50 > 14 h 30,Negură Bunget,Friday,Terrorizer tent
+2010,13 h 00 > 13 h 30,Sigh,Friday,Terrorizer tent
+2010,12 h 10 > 12 h 40,Magrudergrind (en),Friday,Terrorizer tent
+2010,11 h 20 > 11 h 50,Carnifex,Friday,Terrorizer tent
+2010,10 h 30 > 11 h 00,The Faceless,Friday,Terrorizer tent
+2010,01 h 00 > 02 h 00,Jello Biafra and the Guantanamo School of Medicine,Saturday,Terrorizer tent
+2010,22 h 20 > 23 h 20,Agnostic Front,Saturday,Terrorizer tent
+2010,20 h 55 > 21 h 50,Discharge,Saturday,Terrorizer tent
+2010,19 h 40 > 20 h 25,As I Lay Dying,Saturday,Terrorizer tent
+2010,18 h 30 > 19 h 10,Unearth,Saturday,Terrorizer tent
+2010,17 h 20 > 18 h 00,36 Crazyfists,Saturday,Terrorizer tent
+2010,16 h 10 > 16 h 50,Born From Pain,Saturday,Terrorizer tent
+2010,15 h 00 > 15 h 40,Sworn Enemy,Saturday,Terrorizer tent
+2010,14 h 00 > 14 h 40,Wisdom in Chains (en),Saturday,Terrorizer tent
+2010,13 h 00 > 13 h 40,Discipline,Saturday,Terrorizer tent
+2010,12 h 10 > 12 h 40,Knuckledust (en),Saturday,Terrorizer tent
+2010,23 h 30 > 00 h 30,John Garcia plays Kyuss,Sunday,Terrorizer tent
+2010,22 h 00 > 22 h 55,The Dillinger Escape Plan,Sunday,Terrorizer tent
+2010,20 h 45 > 21 h 30,Doom,Sunday,Terrorizer tent
+2010,19 h 30 > 20 h 15,Brant Bjork and the Bros,Sunday,Terrorizer tent
+2010,18 h 20 > 19 h 00,Mondo Generator,Sunday,Terrorizer tent
+2010,17 h 10 > 17 h 50,Yawning Man,Sunday,Terrorizer tent
+2010,16 h 00 > 16 h 40,Rwake (en),Sunday,Terrorizer tent
+2010,14 h 50 > 15 h 30,Weedeater (en),Sunday,Terrorizer tent
+2010,13 h 50 > 14 h 30,Black Cobra (en),Sunday,Terrorizer tent
+2010,13 h 00 > 13 h 30,Saviours (en),Sunday,Terrorizer tent
+2010,12 h 10 > 12 h 40,16 (en),Sunday,Terrorizer tent
+2010,11 h 20 > 11 h 50,Solace (en),Sunday,Terrorizer tent
+2010,10 h 30 > 11 h 00,Omega Massif,Sunday,Terrorizer tent
+2011,23 h 15 > 00 h 20,Rob Zombie,Friday,Mainstage 01
+2011,21 h 05 > 22 h 05,Iggy and the Stooges,Friday,Mainstage 01
+2011,19 h 05 > 20 h 05,DownNote 4,Friday,Mainstage 01
+2011,17 h 15 > 18 h 05,The Cult,Friday,Mainstage 01
+2011,15 h 25 > 16 h 15,Alter Bridge,Friday,Mainstage 01
+2011,13 h 45 > 14 h 30,The Answer,Friday,Mainstage 01
+2011,12 h 15 > 12 h 55,Architects,Friday,Mainstage 01
+2011,11 h 05 > 11 h 35,Valient Thorr,Friday,Mainstage 01
+2011,23 h 00 > 00 h 55,Scorpions,Saturday,Mainstage 01
+2011,20 h 50 > 21 h 50,Black Label Society,Saturday,Mainstage 01
+2011,18 h 50 > 19 h 50,Apocalyptica,Saturday,Mainstage 01
+2011,17 h 05 > 17 h 55,Thin Lizzy,Saturday,Mainstage 01
+2011,15 h 25 > 16 h 10,UFO,Saturday,Mainstage 01
+2011,13 h 50 > 14 h 35,HammerFall,Saturday,Mainstage 01
+2011,12 h 20 > 13 h 00,Angel Witch,Saturday,Mainstage 01
+2011,11 h 10 > 11 h 40,Crucified Barbara,Saturday,Mainstage 01
+2011,23 h 25 > 00 h 55,Ozzy OsbourneNote 2,Sunday,Mainstage 01
+2011,21 h 00 > 22 h 25,Judas Priest,Sunday,Mainstage 01
+2011,19 h 00 > 20 h 00,Mr. Big,Sunday,Mainstage 01
+2011,17 h 00 > 18 h 00,Cavalera Conspiracy,Sunday,Mainstage 01
+2011,15 h 15 > 16 h 05,Duff McKagan's Loaded,Sunday,Mainstage 01
+2011,13 h 40 > 14 h 25,Firewind,Sunday,Mainstage 01
+2011,12 h 05 > 12 h 45,S.U.P.,Sunday,Mainstage 01
+2011,10 h 55 > 11 h 25,Zuul FX,Sunday,Mainstage 01
+2011,00 h 50 > 02 h 00,In Flames,Friday,Mainstage 02
+2011,22 h 10 > 23 h 10,Morbid Angel,Friday,Mainstage 02
+2011,20 h 10 > 21 h 00,Meshuggah,Friday,Mainstage 02
+2011,18 h 10 > 19 h 00,The Exploited,Friday,Mainstage 02
+2011,16 h 20 > 17 h 10,Maximum the Hormone,Friday,Mainstage 02
+2011,14 h 35 > 15 h 20,Dagoba,Friday,Mainstage 02
+2011,13 h 00 > 13 h 40,Dwarves,Friday,Mainstage 02
+2011,11 h 40 > 12 h 10,Suicide Silence,Friday,Mainstage 02
+2011,10 h 30 > 11 h 00,Klone,Friday,Mainstage 02
+2011,01 h 00 > 02 h 00,Coroner,Saturday,Mainstage 02
+2011,21 h 55 > 22 h 55,Kreator,Saturday,Mainstage 02
+2011,19 h 55 > 20 h 45,Sodom,Saturday,Mainstage 02
+2011,17 h 55 > 18 h 55,Destruction,Saturday,Mainstage 02
+2011,16 h 15 > 17 h 00,Municipal Waste,Saturday,Mainstage 02
+2011,14 h 40 > 15 h 20,Hemoragy,Saturday,Mainstage 02
+2011,13 h 05 > 13 h 45,Mekong Delta,Saturday,Mainstage 02
+2011,11 h 45 > 12 h 15,Whiplash,Saturday,Mainstage 02
+2011,10 h 35 > 11 h 05,Lyzanxia,Saturday,Mainstage 02
+2011,10 h 00 > 10 h 30,Headcharger,Saturday,Mainstage 02
+2011,01 h 00 > 02 h 00,Opeth,Sunday,Mainstage 02
+2011,22 h 30 > 23 h 20,Therion,Sunday,Mainstage 02
+2011,20 h 05 > 20 h 55,Doro,Sunday,Mainstage 02
+2011,18 h 05 > 18 h 55,Anathema,Sunday,Mainstage 02
+2011,16 h 10 > 16 h 55,Pain of Salvation,Sunday,Mainstage 02
+2011,14 h 30 > 15 h 10,Orphaned Land,Sunday,Mainstage 02
+2011,12 h 50 > 13 h 35,Atheist,Sunday,Mainstage 02
+2011,11 h 30 > 12 h 00,Turisas,Sunday,Mainstage 02
+2011,10 h 20 >10 h 50,Audrey Horne,Sunday,Mainstage 02
+2011,01 h 00 > 02 h 00,Mayhem,Friday,Rock Hard tent
+2011,23 h 15 > 00 h 15,Possessed,Friday,Rock Hard tent
+2011,21 h 15 > 22 h 05,Belphegor,Friday,Rock Hard tent
+2011,19 h 15 > 20 h 05,Vader,Friday,Rock Hard tent
+2011,17 h 15 > 18 h 05,Primordial,Friday,Rock Hard tent
+2011,15 h 25 > 16 h 05,Krisiun,Friday,Rock Hard tent
+2011,13 h 45 > 14 h 30,Dødheimsgard,Friday,Rock Hard tent
+2011,12 h 15 > 12 h 55,Malevolent Creation,Friday,Rock Hard tent
+2011,11 h 05 > 11 h 35,Svart Crown,Friday,Rock Hard tent
+2011,01 h 00 > 02 h 00,Triptykon,Saturday,Rock Hard tent
+2011,23 h 15 > 00 h 15,Bolt Thrower,Saturday,Rock Hard tent
+2011,21 h 00 > 21 h 50,Septic Flesh,Saturday,Rock Hard tent
+2011,19 h 00 > 19 h 50,1349,Saturday,Rock Hard tent
+2011,17 h 05 > 17 h 55,Skyforger,Saturday,Rock Hard tent
+2011,15 h 25 > 16 h 10,Exhumed,Saturday,Rock Hard tent
+2011,13 h 50 > 14 h 35,Hail of Bullets,Saturday,Rock Hard tent
+2011,12 h 20 > 13 h 00,Severe Torture,Saturday,Rock Hard tent
+2011,11 h 10 > 11 h 40,Total Fucking Destruction,Saturday,Rock Hard tent
+2011,01 h 00 > 02 h 00,Cradle of Filth,Sunday,Rock Hard tent
+2011,23 h 25 > 00 h 25,Dark Tranquillity,Sunday,Rock Hard tent
+2011,21 h 35 > 22 h 25,Korpiklaani,Sunday,Rock Hard tent
+2011,19 h 10 > 20 h 00,Morgoth,Sunday,Rock Hard tent
+2011,17 h 10 > 18 h 00,Grave,Sunday,Rock Hard tent
+2011,15 h 15 > 16 h 05,Tsjuder,Sunday,Rock Hard tent
+2011,13 h 40 > 14 h 25,Arkona,Sunday,Rock Hard tent
+2011,12 h 05 > 12 h 45,Last Days of Humanity,Sunday,Rock Hard tent
+2011,10 h 55 > 11 h 25,Impureza,Sunday,Rock Hard tent
+2011,01 h 00 > 02 h 00,Monster Magnet,Friday,Terrorizer tent
+2011,23 h 30 > 00 h 30,Melvins,Friday,Terrorizer tent
+2011,22 h 10 > 23 h 00,Clutch,Friday,Terrorizer tent
+2011,20 h 50 > 21 h 40,Corrosion of Conformity,Friday,Terrorizer tent
+2011,19 h 35 > 20 h 20,The Young Gods,Friday,Terrorizer tent
+2011,18 h 20 > 19 h 05,Karma to Burn,Friday,Terrorizer tent
+2011,17 h 05 > 17 h 50,Eyehategod,Friday,Terrorizer tent
+2011,15 h 50 > 16 h 50,The Damned Things,Friday,Terrorizer tent
+2011,14 h 40 > 15 h 20,Church of Misery,Friday,Terrorizer tent
+2011,13 h 30 > 14 h 10,Kruger,Friday,Terrorizer tent
+2011,12 h 30 > 13 h 00,In Solitude,Friday,Terrorizer tent
+2011,11 h 30 > 12 h 00,My Sleeping Karma,Friday,Terrorizer tent
+2011,10 h 30 > 11 h 00,Hangman's Chair,Friday,Terrorizer tent
+2011,01 h 00 > 02 h 00,Bad Brains,Saturday,Terrorizer tent
+2011,23 h 30 > 00 h 30,Converge,Saturday,Terrorizer tent
+2011,22 h 10 > 23 h 00,Terror,Saturday,Terrorizer tent
+2011,20 h 50 > 21 h 40,Dirty Rotten Imbeciles,Saturday,Terrorizer tent
+2011,19 h 35 > 20 h 20,Times of Grace,Saturday,Terrorizer tent
+2011,18 h 20 > 19 h 05,Comeback Kid,Saturday,Terrorizer tent
+2011,17 h 05 > 17 h 50,U.S. Bombs,Saturday,Terrorizer tent
+2011,15 h 50 > 16 h 50,Shai Hulud,Saturday,Terrorizer tent
+2011,14 h 40 > 15 h 20,Raw Power,Saturday,Terrorizer tent
+2011,13 h 30 > 14 h 10,Deez Nuts (en),Saturday,Terrorizer tent
+2011,12 h 30 > 13 h 00,Your Demise (en),Saturday,Terrorizer tent
+2011,11 h 30 > 12 h 00,Nasty (en),Saturday,Terrorizer tent
+2011,10 h 30 > 11 h 00,Arma Gathas (de),Saturday,Terrorizer tent
+2011,01 h 00 > 02 h 00,Kyuss Lives !,Sunday,Terrorizer tent
+2011,23 h 30 > 00 h 30,Hawkwind,Sunday,Terrorizer tent
+2011,22 h 10 > 23 h 00,Electric Wizard,Sunday,Terrorizer tent
+2011,20 h 50 > 21 h 40,The Black Dahlia Murder,Sunday,Terrorizer tent
+2011,19 h 35 > 20 h 20,Goatsnake,Sunday,Terrorizer tent
+2011,18 h 20 > 19 h 05,Grand Magus,Sunday,Terrorizer tent
+2011,17 h 05 > 17 h 50,Kylesa,Sunday,Terrorizer tent
+2011,15 h 50 > 16 h 50,Ghost,Sunday,Terrorizer tent
+2011,14 h 40 > 15 h 20,Knut,Sunday,Terrorizer tent
+2011,13 h 30 > 14 h 10,The Ocean,Sunday,Terrorizer tent
+2011,12 h 30 > 13 h 00,Red Fang,Sunday,Terrorizer tent
+2011,11 h 30 > 12 h 00,KEN mode (en),Sunday,Terrorizer tent
+2011,10 h 30 > 11 h 00,Morne (de),Sunday,Terrorizer tent
+2012,23 h 10 > 00 h 40,Megadeth,Friday,Mainstage 01
+2012,20 h 30 > 22 h 00,Lynyrd Skynyrd,Friday,Mainstage 01
+2012,18 h 20 > 19 h 20,Gotthard,Friday,Mainstage 01
+2012,16 h 35 > 17 h 25,Unisonic,Friday,Mainstage 01
+2012,15 h 05 > 15 h 45,Molly Hatchet,Friday,Mainstage 01
+2012,13 h 35 > 14 h 15,Lizzy Borden,Friday,Mainstage 01
+2012,12 h 15 > 12 h 45,Bukowski,Friday,Mainstage 01
+2012,11 h 05 > 11 h 35,Alpha Tiger,Friday,Mainstage 01
+2012,23 h 30 > 02 h 00,Guns N' RosesNote 7,Saturday,Mainstage 01
+2012,22 h 50 > 22 h 05,Within Temptation,Saturday,Mainstage 01
+2012,18 h 50 > 19 h 40,Sebastian Bach,Saturday,Mainstage 01
+2012,17 h 00 > 17 h 50,Uriah Heep,Saturday,Mainstage 01
+2012,15 h 15 > 16 h 00,Koritni,Saturday,Mainstage 01
+2012,13 h 35 > 14 h 15,Crashdïet,Saturday,Mainstage 01
+2012,12 h 15 > 12 h 45,Steel Panther,Saturday,Mainstage 01
+2012,11 h 05 > 11 h 50,Kobra and the Lotus,Saturday,Mainstage 01
+2012,23 h 10 > 00 h 55,Ozzy Osbourne & Friends,Sunday,Mainstage 01
+2012,20 h 45 > 22 h 00,Mötley Crüe,Sunday,Mainstage 01
+2012,18 h 35 > 19 h 35,Blue Öyster Cult,Sunday,Mainstage 01
+2012,16 h 45 > 17 h 35,Hatebreed,Sunday,Mainstage 01
+2012,15 h 05 > 15 h 50,Black Label Society,Sunday,Mainstage 01
+2012,13 h 35 > 14 h 15,D.A.D.,Sunday,Mainstage 01
+2012,12 h 15 > 12 h 45,Girlschool,Sunday,Mainstage 01
+2012,11 h 05 > 11 h 35,Vanderbuyst (de),Sunday,Mainstage 01
+2012,00 h 45 > 02 h 00,King Diamond,Friday,Mainstage 02
+2012,22 h 05 > 23 h 05,Dropkick Murphys,Friday,Mainstage 02
+2012,19 h 25 > 20 h 250,Turbonegro,Friday,Mainstage 02
+2012,17 h 30 > 18 h 15,Heaven Shall Burn,Friday,Mainstage 02
+2012,15 h 50 > 16 h 30,The Bronx,Friday,Mainstage 02
+2012,14 h 20 > 15 h 00,Street Dogs,Friday,Mainstage 02
+2012,12 h 50 > 13 h 30,Black Bomb A,Friday,Mainstage 02
+2012,11 h 40 > 12 h 10,Hamlet,Friday,Mainstage 02
+2012,10 h 30 > 11 h 00,Betraying the Martyrs,Friday,Mainstage 02
+2012,22 h 10 > 23 h 25,Machine Head,Saturday,Mainstage 02
+2012,19 h 45 > 20 h 45,Edguy,Saturday,Mainstage 02
+2012,17 h 55 > 18 h 45,Exodus,Saturday,Mainstage 02
+2012,16 h 05 > 16 h 55,Sacred Reich,Saturday,Mainstage 02
+2012,14 h 20 > 15 h 10,Death Angel,Saturday,Mainstage 02
+2012,12 h 50 > 13 h 30,Channel Zero,Saturday,Mainstage 02
+2012,11 h 40 > 12 h 10,Gama Bomb,Saturday,Mainstage 02
+2012,10 h 30 > 11 h 00,Suicidal Angels,Sunday,Mainstage 02
+2012,01 h 00 > 02 h 00,Lamb of God,Sunday,Mainstage 02
+2012,22 h 05 > 23 h 05,SlashNote 7,Sunday,Mainstage 02
+2012,19 h 40 > 20 h 40,Trivium,Sunday,Mainstage 02
+2012,17 h 40 > 18 h 30,DevilDriver,Sunday,Mainstage 02
+2012,15 h 55 > 16 h 40,Walls of Jericho,Sunday,Mainstage 02
+2012,14 h 20 > 15 h 00,August Burns Red,Sunday,Mainstage 02
+2012,12 h 50 > 13 h 30,All Shall Perish,Sunday,Mainstage 02
+2012,11 h 40 > 12 h 10,Do Or Die,Sunday,Mainstage 02
+2012,10 h 30 > 11 h 00,L'Esprit du clan,Sunday,Mainstage 02
+2012,23 h 35 > 00 h 35,Obituary,Friday,The Altar
+2012,21 h 25 > 22 h 25,Cannibal Corpse,Friday,The Altar
+2012,19 h 25 > 20 h 25,Nasum,Friday,The Altar
+2012,17 h 30 > 18 h 15,Brujeria,Friday,The Altar
+2012,15 h 50 > 16 h 30,Gorod,Friday,The Altar
+2012,14 h 20 > 15 h 00,Unexpect,Friday,The Altar
+2012,12 h 50 > 13 h 30,Benediction,Friday,The Altar
+2012,11 h 40 > 12 h 10,Benighted,Friday,The Altar
+2012,23 h 55 > 00 h 55,Entombed,Saturday,The Altar
+2012,21 h 45 > 22 h 45,Napalm Death,Saturday,The Altar
+2012,19 h 45 > 20 h 45,Aborted,Saturday,The Altar
+2012,17 h 55 > 18 h 45,Vomitory,Saturday,The Altar
+2012,16 h 05 > 16 h 55,Necrophagia,Saturday,The Altar
+2012,14 h 20 > 15 h 10,Avulsed,Saturday,The Altar
+2012,12 h 50 > 13 h 30,???,Saturday,The Altar
+2012,11 h 40 > 12 h 10,Rompeprop,Saturday,The Altar
+2012,23 h 30 > 00 h 30,Children of Bodom,Sunday,The Altar
+2012,21 h 20 > 22 h 20,Suffocation,Sunday,The Altar
+2012,19 h 30 > 20 h 20,Lock Up,Sunday,The Altar
+2012,17 h 40 > 18 h 30,Dying Fetus,Sunday,The Altar
+2012,15 h 55 > 16 h 40,Blood Red Throne,Sunday,The Altar
+2012,14 h 20 > 15 h 00,Brutal Truth,Sunday,The Altar
+2012,12 h 50 > 13 h 30,Insomnium,Sunday,The Altar
+2012,11 h 40 > 12 h 10,Hour of Penance (en),Sunday,The Altar
+2012,00 h 45 > 02 h 00,Amon Amarth,Friday,The Temple
+2012,22 h 05 > 23 h 05,Satyricon,Friday,The Temple
+2012,19 h 25 > 20 h 25,Moonsorrow,Friday,The Temple
+2012,17 h 30 > 18 h 15,Taake,Friday,The Temple
+2012,15 h 50 > 16 h 30,Darkspace,Friday,The Temple
+2012,14 h 20 > 15 h 00,Endstille,Friday,The Temple
+2012,12 h 50 > 13 h 30,Sólstafir,Friday,The Temple
+2012,11 h 40 > 12 h 10,Belenos,Friday,The Temple
+2012,10 h 30 > 11 h 00,Merrimack,Friday,The Temple
+2012,10 h 30 > 11 h 00,Behemoth,Saturday,The Temple
+2012,22 h 10 > 23 h 25,In Extremo,Saturday,The Temple
+2012,19 h 45 > 20 h 45,Enslaved,Saturday,The Temple
+2012,17 h 55 > 18 h 45,Shining,Saturday,The Temple
+2012,16 h 05 > 16 h 55,Djerv (en),Saturday,The Temple
+2012,14 h 20 > 15 h 10,Ascension,Saturday,The Temple
+2012,12 h 50 > 13 h 30,Necros Christos (de),Saturday,The Temple
+2012,11 h 40 > 12 h 10,Oranssi Pazuzu,Saturday,The Temple
+2012,10 h 30 > 11 h 00,Glorior Belli (es),Saturday,The Temple
+2012,01 h 00 > 02 h 00,Dimmu Borgir,Sunday,The Temple
+2012,22 h 05 > 23 h 05,Arcturus,Sunday,The Temple
+2012,19 h 40 > 20 h 40,Ihsahn,Sunday,The Temple
+2012,17 h 40 > 18 h 30,Vulture Industries,Sunday,The Temple
+2012,15 h 55 > 16 h 40,Anaal Nathrakh,Sunday,The Temple
+2012,14 h 20 > 15 h 00,Forgotten Tomb,Sunday,The Temple
+2012,12 h 50 > 13 h 30,Liturgy (en),Sunday,The Temple
+2012,11 h 40 > 12 h 10,Winterfylleth (en),Sunday,The Temple
+2012,10 h 30 > 11 h 00,Aosoth,Sunday,The Temple
+2012,23 h 10 > 00 h 40,Tragedy,Friday,The Warzone
+2012,20 h 30 > 22 h 00,From Ashes Rise,Friday,The Warzone
+2012,18 h 20 > 19 h 20,Arson Anthem (en),Friday,The Warzone
+2012,16 h 35 > 17 h 25,Integrity,Friday,The Warzone
+2012,15 h 05 > 15 h 45,Discharge,Friday,The Warzone
+2012,13 h 35 > 14 h 15,Victims (en),Friday,The Warzone
+2012,12 h 15 > 12 h 45,Vitamin X,Friday,The Warzone
+2012,11 h 05 > 11 h 35,Extinction of Mankind (en),Friday,The Warzone
+2012,10 h 00 > 10 h 30,Strong As Ten,Friday,The Warzone
+2012,23 h 30 > 02 h 00,Refused,Saturday,The Warzone
+2012,22 h 50 > 22 h 05,Darkest Hour,Saturday,The Warzone
+2012,18 h 50 > 19 h 40,Unearth,Saturday,The Warzone
+2012,17 h 00 > 17 h 50,Dog Eat Dog,Saturday,The Warzone
+2012,15 h 15 > 16 h 00,Cancer Bats,Saturday,The Warzone
+2012,13 h 35 > 14 h 15,October File (de),Saturday,The Warzone
+2012,12 h 15 > 12 h 45,Emmure,Saturday,The Warzone
+2012,11 h 05 > 11 h 50,As They Burn,Saturday,The Warzone
+2012,10 h 00 > 10 h 30,The Rodeo Idiot Engine,Saturday,The Warzone
+2012,23 h 10 > 00 h 55,Biohazard,Sunday,The Warzone
+2012,20 h 45 > 22 h 00,Madball,Sunday,The Warzone
+2012,18 h 35 > 19 h 35,The Spudmonsters,Sunday,The Warzone
+2012,16 h 45 > 17 h 35,Integrity,Sunday,The Warzone
+2012,15 h 05 > 15 h 50,H2O,Sunday,The Warzone
+2012,13 h 35 > 14 h 15,Death Before Dishonor,Sunday,The Warzone
+2012,12 h 15 > 12 h 45,Hoods,Sunday,The Warzone
+2012,11 h 05 > 11 h 50,All For Nothing,Sunday,The Warzone
+2012,10 h 00 > 10 h 30,Lasting Values,Sunday,The Warzone
+2012,00 h 45 > 02 h 00,Hank 3,Friday,The Valley
+2012,22 h 05 > 23 h 05,Colour Haze,Friday,The Valley
+2012,19 h 25 > 20 h 25,Orange Goblin,Friday,The Valley
+2012,17 h 30 > 18 h 15,The Devil's Blood,Friday,The Valley
+2012,15 h 50 > 16 h 30,Brain Police (pl),Friday,The Valley
+2012,14 h 20 > 15 h 00,Thou,Friday,The Valley
+2012,12 h 50 > 13 h 30,Doomriders (en),Friday,The Valley
+2012,11 h 40 > 12 h 10,Celeste,Friday,The Valley
+2012,10 h 30 > 11 h 00,???,Friday,The Valley
+2012,01 h 00 > 02 h 00,The Devil's Blood,Saturday,The Valley
+2012,22 h 10 > 23 h 25,Saint Vitus,Saturday,The Valley
+2012,19 h 45 > 20 h 45,Yob (en),Saturday,The Valley
+2012,17 h 55 > 18 h 45,Unsane,Saturday,The Valley
+2012,16 h 05 > 16 h 55,Big Business (en),Saturday,The Valley
+2012,14 h 20 > 15 h 10,Ufomammut,Saturday,The Valley
+2012,12 h 50 > 13 h 30,Amenra,Saturday,The Valley
+2012,11 h 40 > 12 h 10,???,Saturday,The Valley
+2012,10 h 30 > 11 h 00,Dÿse,Saturday,The Valley
+2012,01 h 00 > 02 h 00,Sunn O))),Sunday,The Valley
+2012,22 h 05 > 23 h 05,The Obsessed,Sunday,The Valley
+2012,19 h 40 > 20 h 40,Pentagram,Sunday,The Valley
+2012,17 h 40 > 18 h 30,D.Usk,Sunday,The Valley
+2012,15 h 55 > 16 h 40,Acid King,Sunday,The Valley
+2012,14 h 20 > 15 h 00,Monkey 3,Sunday,The Valley
+2012,12 h 50 > 13 h 30,Alcest,Sunday,The Valley
+2012,11 h 40 > 12 h 10,Year Of No Light,Sunday,The Valley
+2012,10 h 30 > 11 h 00,Abysse,Sunday,The Valley
+2013,23 h 10 > 00 h 55,Def LeppardHF 37,Friday,Mainstage 01
+2013,20 h 45 > 22 h 00,Whitesnake,Friday,Mainstage 01
+2013,18 h 35 > 19 h 35,Twisted Sister,Friday,Mainstage 01
+2013,16 h 45 > 17 h 35,EuropeHF 27,Friday,Mainstage 01
+2013,15 h 05 > 15 h 55,Saxon,Friday,Mainstage 01
+2013,13 h 35 > 14 h 15,Hardcore Superstar,Friday,Mainstage 01
+2013,12 h 15 > 12 h 45,Black Spiders (en),Friday,Mainstage 01
+2013,11 h 05 > 11 h 35,Kissin' Dynamite,Friday,Mainstage 01
+2013,23 h 10 > 00 h 40,Kiss,Saturday,Mainstage 01
+2013,20 h 55 > 22 h 00,ZZ Top,Saturday,Mainstage 01
+2013,18 h 55 > 19 h 55,AcceptHF 27,Saturday,Mainstage 01
+2013,17 h 05 > 17 h 55,DownNote 4,Saturday,Mainstage 01
+2013,15 h 15 > 16 h 05,3 Doors Down,Saturday,Mainstage 01
+2013,13 h 35 > 14 h 15,Krokus,Saturday,Mainstage 01
+2013,12 h 15 > 12 h 45,Audrey Horne,Saturday,Mainstage 01
+2013,11 h 05 > 11 h 35,Attentat Rock,Saturday,Mainstage 01
+2013,23 h 10 > 00 h 40,VolbeatNote 1,Sunday,Mainstage 01
+2013,20 h 45 > 22 h 00,Stone Sour,Sunday,Mainstage 01
+2013,18 h 35 > 19 h 35,GojiraHF 38,Sunday,Mainstage 01
+2013,16 h 45 > 17 h 35,NewstedHF 39,Sunday,Mainstage 01
+2013,15 h 05 > 15 h 50,Danko Jones,Sunday,Mainstage 01
+2013,13 h 35 > 14 h 15,Mustasch,Sunday,Mainstage 01
+2013,12 h 15 > 12 h 45,Heaven's Basement (en),Sunday,Mainstage 01
+2013,11 h 05 > 11 h 35,Waltari,Sunday,Mainstage 01
+2013,01 h 00 > 02 h 00,Avantasia,Friday,Mainstage 02
+2013,22 h 05 > 23 h 05,Helloween,Friday,Mainstage 02
+2013,19 h 40 > 20 h 40,Kreator,Friday,Mainstage 02
+2013,17 h 40 > 18 h 30,Testament,Friday,Mainstage 02
+2013,16 h 00 > 16 h 40,Hellyeah,Friday,Mainstage 02
+2013,14 h 20 > 15 h 00,Heathen,Friday,Mainstage 02
+2013,12 h 50 > 13 h 30,Vektor,Friday,Mainstage 02
+2013,11 h 40 > 12 h 10,SSS (en),Friday,Mainstage 02
+2013,00 h 45 > 02 h 00,Korn,Saturday,Mainstage 02
+2013,22 h 05 > 23 h 05,Bullet for My Valentine,Saturday,Mainstage 02
+2013,20 h 00 > 20 h 50,Papa Roach,Saturday,Mainstage 02
+2013,18 h 00 > 18 h 50,A Day to Remember,Saturday,Mainstage 02
+2013,16 h 10 > 17 h 00,Parkway Drive,Saturday,Mainstage 02
+2013,14 h 20 > 15 h 10,Coal Chamber,Saturday,Mainstage 02
+2013,12 h 50 > 13 h 30,P.O.D.,Saturday,Mainstage 02
+2013,11 h 40 > 12 h 10,Asking Alexandria,Saturday,Mainstage 02
+2013,00 h 45 > 02 h 00,Ghost,Sunday,Mainstage 02
+2013,22 h 05 > 23 h 05,LordiHF 27,Sunday,Mainstage 02
+2013,19 h 40 > 20 h 40,Symphony X,Sunday,Mainstage 02
+2013,17 h 40 > 18 h 30,Voivod,Sunday,Mainstage 02
+2013,15 h 55 > 16 h 40,Mass Hysteria,Sunday,Mainstage 02
+2013,14 h 20 > 15 h 00,Riverside,Sunday,Mainstage 02
+2013,12 h 50 > 13 h 30,Prong,Sunday,Mainstage 02
+2013,11 h 40 > 12 h 10,The Ghost Inside,Sunday,Mainstage 02
+2013,01 h 05 > 02 h 05,Six Feet Under,Friday,The Altar
+2013,22 h 55 > 23 h 55,At the Gates,Friday,The Altar
+2013,20 h 45 > 21 h 45,Ceremonial Oath (en),Friday,The Altar
+2013,18 h 35 > 19 h 35,Asphyx,Friday,The Altar
+2013,16 h 45 > 17 h 35,Between the Buried and Me,Friday,The Altar
+2013,15 h 05 > 15 h 55,Evoken (en),Friday,The Altar
+2013,13 h 35 > 14 h 15,Hooded Menace (de),Friday,The Altar
+2013,12 h 15 > 12 h 45,Misanthrope,Friday,The Altar
+2013,11 h 05 > 11 h 35,Captain Cleanoff,Friday,The Altar
+2013,01 h 05 > 02 h 05,Morbid AngelHF 27,Saturday,The Altar
+2013,22 h 55 > 23 h 55,Candlemass,Saturday,The Altar
+2013,20 h 45 > 21 h 45,My Dying Bride,Saturday,The Altar
+2013,18 h 55 > 19 h 45,Amorphis,Saturday,The Altar
+2013,17 h 05 > 17 h 55,Sinister (en),Saturday,The Altar
+2013,15 h 15 > 16 h 05,The Old Dead Tree,Saturday,The Altar
+2013,13 h 35 > 14 h 15,Monstrosity,Saturday,The Altar
+2013,12 h 15 > 12 h 45,Dead Congregation (en),Saturday,The Altar
+2013,11 h 05 > 11 h 35,T.A.N.K. (Think of A New Kind),Saturday,The Altar
+2013,01 h 00 > 02 h 00,Napalm DeathHF 34,Sunday,The Altar
+2013,22 h 50 > 23 h 50,Hypocrisy,Sunday,The Altar
+2013,20 h 40 > 21 h 40,Moonspell,Sunday,The Altar
+2013,18 h 35 > 19 h 30,Wintersun,Sunday,The Altar
+2013,16 h 45 > 17 h 35,Misery Index,Sunday,The Altar
+2013,15 h 05 > 15 h 50,Cryptopsy,Sunday,The Altar
+2013,13 h 35 > 14 h 15,Pig Destroyer,Sunday,The Altar
+2013,12 h 15 > 12 h 45,Krisiun,Sunday,The Altar
+2013,11 h 05 > 11 h 35,Haemorrhage,Sunday,The Altar
