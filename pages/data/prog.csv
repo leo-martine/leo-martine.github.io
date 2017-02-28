@@ -1,6 +1,6 @@
 year,start,end,duration,band,day,stage
 2007,20:15:00,20:45:00,00:30:00,1349,Sunday,Discover stage
-2010,12:10:00,12:40:00,00:30:00,16ÿ,Sunday,Terrorizer tent
+2010,12:10:00,12:40:00,00:30:00,16 ,Sunday,Terrorizer tent
 2010,11:05:00,11:35:00,00:30:00,69 Chambers,Friday,Mainstage 01
 2013,10:30:00,11:00:00,00:30:00,7 Weeks,Friday,The Valley
 2007,13:30:00,14:00:00,00:30:00,7th Nemesis,Friday,Discover stage
@@ -14,7 +14,7 @@ year,start,end,duration,band,day,stage
 2012,11:05:00,11:35:00,00:30:00,Alpha Tiger,Friday,Mainstage 01
 2006,13:00:00,13:30:00,00:30:00,Amenra,Sunday,Hard'n'heavy stage
 2014,10:30:00,11:00:00,00:30:00,Angelus Apatrida,Friday,Mainstage 02
-2007,15:00:00,15:30:00,00:30:00,Animosityÿ,Sunday,Mainstage
+2007,15:00:00,15:30:00,00:30:00,Animosity ,Sunday,Mainstage
 2012,10:30:00,11:00:00,00:30:00,Aosoth,Sunday,The Temple
 2015,12:15:00,12:45:00,00:30:00,Argile,Friday,The Temple
 2011,10:30:00,11:00:00,00:30:00,Arma Gathas,Saturday,Terrorizer tent
@@ -36,14 +36,14 @@ year,start,end,duration,band,day,stage
 2012,10:30:00,11:00:00,00:30:00,Betraying the Martyrs,Friday,Mainstage 02
 2008,12:30:00,13:00:00,00:30:00,Between the Buried and Me,Sunday,Discover stage
 2015,11:05:00,11:35:00,00:30:00,Birds in Raw,Sunday,The Warzone
-2013,12:15:00,12:45:00,00:30:00,Black Spidersÿ,Friday,Mainstage 01
+2013,12:15:00,12:45:00,00:30:00,Black Spiders ,Friday,Mainstage 01
 2008,13:20:00,13:50:00,00:30:00,Black Tide,Saturday,Discover stage
 2014,11:40:00,12:10:00,00:30:00,Blacklodge,Sunday,The Temple
-2010,10:30:00,11:00:00,00:30:00,BlasphŠme,Sunday,Mainstage 02
+2010,10:30:00,11:00:00,00:30:00,Blasphème,Sunday,Mainstage 02
 2008,12:30:00,13:00:00,00:30:00,Blazing War Machine,Saturday,Discover stage
 2007,15:00:00,15:30:00,00:30:00,Bloodsimple,Friday,Mainstage
 2014,11:05:00,11:35:00,00:30:00,Blues Pills,Sunday,Mainstage 01
-2015,11:40:00,12:10:00,00:30:00,B”lzer,Friday,The Altar
+2015,11:40:00,12:10:00,00:30:00,Bölzer,Friday,The Altar
 2008,12:40:00,13:10:00,00:30:00,Born From Pain,Friday,Second stage
 2006,18:30:00,19:00:00,00:30:00,Born From Pain,Sunday,Hard'n'heavy stage
 2006,19:40:00,20:10:00,00:30:00,Boysetsfire,Saturday,Hard'n'heavy stage
@@ -63,7 +63,7 @@ year,start,end,duration,band,day,stage
 2014,11:05:00,11:35:00,00:30:00,Cobra,Sunday,The Warzone
 2015,11:40:00,12:10:00,00:30:00,Cock and Ball Torture,Saturday,The Altar
 2015,12:15:00,12:45:00,00:30:00,Code Orange,Sunday,The Warzone
-2007,20:15:00,20:45:00,00:30:00,Coldworkerÿ,Friday,Discover stage
+2007,20:15:00,20:45:00,00:30:00,Coldworker ,Friday,Discover stage
 2014,11:40:00,12:10:00,00:30:00,Conan,Friday,The Valley
 2016,10:30:00,11:00:00,00:30:00,Corrosive Elements,Sunday,The Altar
 2006,12:00:00,12:30:00,00:30:00,Cortez,Saturday,Hard'n'heavy stage
@@ -76,7 +76,7 @@ year,start,end,duration,band,day,stage
 2006,14:00:00,14:30:00,00:30:00,Damnation A.D.,Saturday,Hard'n'heavy stage
 2006,14:30:00,15:00:00,00:30:00,Darkest Hour,Friday,Mainstage
 2014,10:30:00,11:00:00,00:30:00,Darkness Dynamite,Saturday,Mainstage 02
-2013,12:15:00,12:45:00,00:30:00,Dead Congregationÿ,Saturday,The Altar
+2013,12:15:00,12:45:00,00:30:00,Dead Congregation ,Saturday,The Altar
 2015,10:30:00,11:00:00,00:30:00,Deep in Hate,Saturday,The Altar
 2007,19:30:00,20:00:00,00:30:00,dEFDUMp,Saturday,Discover stage
 2016,11:05:00,11:35:00,00:30:00,Delain,Friday,Mainstage 01
@@ -95,33 +95,33 @@ year,start,end,duration,band,day,stage
 2006,11:30:00,12:00:00,00:30:00,Drowning,Saturday,Mainstage
 2016,11:40:00,12:10:00,00:30:00,Dust Bolt,Friday,The Altar
 2007,15:00:00,15:30:00,00:30:00,Dylath-Leen,Friday,Discover stage
-2012,10:30:00,11:00:00,00:30:00,D˜se,Saturday,The Valley
+2012,10:30:00,11:00:00,00:30:00,Dÿse,Saturday,The Valley
 2013,11:40:00,12:10:00,00:30:00,Eagle Twin,Friday,The Valley
 2015,11:40:00,12:10:00,00:30:00,Elder,Saturday,The Valley
 2010,11:05:00,11:35:00,00:30:00,Electric Mary,Saturday,Mainstage 01
 2007,16:30:00,17:00:00,00:30:00,Ellipsis,Saturday,Discover stage
 2012,12:15:00,12:45:00,00:30:00,Emmure,Saturday,The Warzone
-2006,14:00:00,14:30:00,00:30:00,Endstandÿ,Friday,Hard'n'heavy stage
+2006,14:00:00,14:30:00,00:30:00,Endstand ,Friday,Hard'n'heavy stage
 2007,14:30:00,15:00:00,00:30:00,Ephel Duath,Sunday,Gibson stage
 2013,10:30:00,11:00:00,00:30:00,Eryn Non Dae,Sunday,The Valley
 2007,14:15:00,14:45:00,00:30:00,Eryn Non Dae,Sunday,Discover stage
 2015,12:15:00,12:45:00,00:30:00,Eths,Sunday,Mainstage 01
 2010,12:15:00,12:45:00,00:30:00,Evile,Friday,Mainstage 01
-2012,11:05:00,11:35:00,00:30:00,Extinction of Mankindÿ,Friday,The Warzone
+2012,11:05:00,11:35:00,00:30:00,Extinction of Mankind ,Friday,The Warzone
 2014,11:05:00,11:35:00,00:30:00,First Blood,Friday,The Warzone
 2007,18:45:00,19:15:00,00:30:00,Fubar,Saturday,Discover stage
 2007,18:00:00,18:30:00,00:30:00,Furia,Sunday,Discover stage
 2006,12:30:00,13:00:00,00:30:00,Gadget,Saturday,Mainstage
 2009,11:35:00,12:05:00,00:30:00,Gama Bomb,Saturday,Mainstage 01
 2012,11:40:00,12:10:00,00:30:00,Gama Bomb,Saturday,Mainstage 02
-2010,11:05:00,11:35:00,00:30:00,General Surgeryÿ,Sunday,Rock Hard tent
+2010,11:05:00,11:35:00,00:30:00,General Surgery ,Sunday,Rock Hard tent
 2012,12:15:00,12:45:00,00:30:00,Girlschool,Sunday,Mainstage 01
 2012,10:30:00,11:00:00,00:30:00,Glorior Belli,Saturday,The Temple
 2015,10:30:00,11:00:00,00:30:00,Glowsun,Friday,The Valley
 2006,14:00:00,14:30:00,00:30:00,Go It Alone,Sunday,Hard'n'heavy stage
 2010,10:30:00,11:00:00,00:30:00,Gorod,Friday,Mainstage 02
 2015,11:05:00,11:35:00,00:30:00,Guida,Saturday,Mainstage 01
-2007,15:00:00,15:30:00,00:30:00,Gutwormÿ,Saturday,Discover stage
+2007,15:00:00,15:30:00,00:30:00,Gutworm ,Saturday,Discover stage
 2007,19:30:00,20:00:00,00:30:00,Hacride,Friday,Discover stage
 2013,11:05:00,11:35:00,00:30:00,Haemorrhage,Sunday,The Altar
 2015,11:40:00,12:10:00,00:30:00,Haken,Saturday,Mainstage 02
@@ -135,42 +135,42 @@ year,start,end,duration,band,day,stage
 2015,11:05:00,11:35:00,00:30:00,Hawk Eye,Sunday,Mainstage 01
 2011,10:00:00,10:30:00,00:30:00,Headcharger,Saturday,Mainstage 02
 2007,14:00:00,14:30:00,00:30:00,Heavenly,Sunday,Mainstage
-2013,12:15:00,12:45:00,00:30:00,Heaven's Basementÿ,Sunday,Mainstage 01
+2013,12:15:00,12:45:00,00:30:00,Heaven's Basement ,Sunday,Mainstage 01
 2016,11:05:00,11:35:00,00:30:00,Hegemon,Sunday,The Temple
 2013,10:30:00,11:00:00,00:30:00,Hell Militia,Saturday,The Temple
 2006,12:00:00,12:30:00,00:30:00,Hellmotel,Sunday,Hard'n'heavy stage
 2014,11:40:00,12:10:00,00:30:00,Herder,Saturday,The Valley
 2007,15:00:00,15:30:00,00:30:00,Homestell,Sunday,Discover stage
 2012,12:15:00,12:45:00,00:30:00,Hoods,Sunday,The Warzone
-2012,11:40:00,12:10:00,00:30:00,Hour of Penanceÿ,Sunday,The Altar
+2012,11:40:00,12:10:00,00:30:00,Hour of Penance ,Sunday,The Altar
 2015,10:30:00,11:00:00,00:30:00,Hypno5e,Sunday,The Altar
 2007,14:15:00,14:45:00,00:30:00,Imply in All,Friday,Discover stage
 2011,10:55:00,11:25:00,00:30:00,Impureza,Sunday,Rock Hard tent
 2007,13:30:00,14:00:00,00:30:00,Impureza,Sunday,Discover stage
 2011,12:30:00,13:00:00,00:30:00,In Solitude,Friday,Terrorizer tent
-2007,17:15:00,17:45:00,00:30:00,Interlockÿ,Saturday,Discover stage
+2007,17:15:00,17:45:00,00:30:00,Interlock ,Saturday,Discover stage
 2015,10:30:00,11:00:00,00:30:00,Iron Reagan,Sunday,Mainstage 02
 2013,11:05:00,11:35:00,00:30:00,Justin(e),Saturday,The Warzone
 2007,16:30:00,17:00:00,00:30:00,Kaizen,Sunday,Discover stage
 2010,11:05:00,11:35:00,00:30:00,Kalisia,Saturday,Rock Hard tent
-2011,11:30:00,12:00:00,00:30:00,KEN modeÿ,Sunday,Terrorizer tent
+2011,11:30:00,12:00:00,00:30:00,KEN mode ,Sunday,Terrorizer tent
 2007,16:40:00,17:10:00,00:30:00,Kickback,Saturday,Gibson stage
 2014,11:05:00,11:35:00,00:30:00,Killers,Saturday,Mainstage 01
 2013,11:05:00,11:35:00,00:30:00,Kissin' Dynamite,Friday,Mainstage 01
 2011,10:30:00,11:00:00,00:30:00,Klone,Friday,Mainstage 02
 2007,18:45:00,19:15:00,00:30:00,Klone,Sunday,Discover stage
 2006,13:30:00,14:00:00,00:30:00,Knuckledust,Sunday,Mainstage
-2010,12:10:00,12:40:00,00:30:00,Knuckledustÿ,Saturday,Terrorizer tent
+2010,12:10:00,12:40:00,00:30:00,Knuckledust ,Saturday,Terrorizer tent
 2006,17:20:00,17:50:00,00:30:00,Knut,Sunday,Hard'n'heavy stage
 2007,15:30:00,16:00:00,00:30:00,Korpiklaani,Saturday,Gibson stage
 2013,12:15:00,12:45:00,00:30:00,Krisiun,Sunday,The Altar
 2014,12:15:00,12:45:00,00:30:00,Kronos,Friday,The Altar
 2012,10:00:00,10:30:00,00:30:00,Lasting Values,Sunday,The Warzone
 2016,11:40:00,12:10:00,00:30:00,Lecherous Gaze,Sunday,The Valley
-2006,19:40:00,20:10:00,00:30:00,Leewayÿ,Sunday,Hard'n'heavy stage
+2006,19:40:00,20:10:00,00:30:00,Leeway ,Sunday,Hard'n'heavy stage
 2008,12:40:00,13:10:00,00:30:00,Legion of the Damned,Saturday,Second stage
 2013,10:30:00,11:00:00,00:30:00,Leprous,Sunday,The Temple
-2016,12:15:00,12:45:00,00:30:00,Les Sales Majest‚s,Saturday,The Warzone
+2016,12:15:00,12:45:00,00:30:00,Les Sales Majestés,Saturday,The Warzone
 2012,10:30:00,11:00:00,00:30:00,L'Esprit du clan,Sunday,Mainstage 02
 2014,12:15:00,12:45:00,00:30:00,Lez Zeppelin,Saturday,Mainstage 01
 2015,11:05:00,11:35:00,00:30:00,Lion's Law,Friday,The Warzone
@@ -181,7 +181,7 @@ year,start,end,duration,band,day,stage
 2011,10:35:00,11:05:00,00:30:00,Lyzanxia,Saturday,Mainstage 02
 2007,14:30:00,15:00:00,00:30:00,Lyzanxia,Friday,Gibson stage
 2015,10:30:00,11:00:00,00:30:00,Machete,Saturday,The Valley
-2010,12:10:00,12:40:00,00:30:00,Magrudergrindÿ,Friday,Terrorizer tent
+2010,12:10:00,12:40:00,00:30:00,Magrudergrind ,Friday,Terrorizer tent
 2007,13:30:00,14:00:00,00:30:00,Manigance,Sunday,Gibson stage
 2014,10:30:00,11:00:00,00:30:00,Mars Red Sky,Friday,The Valley
 2014,11:05:00,11:35:00,00:30:00,Mercyless,Saturday,The Altar
@@ -218,14 +218,14 @@ year,start,end,duration,band,day,stage
 2007,19:30:00,20:00:00,00:30:00,Orthodox,Sunday,Discover stage
 2010,11:05:00,11:35:00,00:30:00,Otargos,Friday,Rock Hard tent
 2016,11:05:00,11:35:00,00:30:00,Otargos,Saturday,The Temple
-2006,16:10:00,16:40:00,00:30:00,Panikÿ/ÿGuns Up,Sunday,Hard'n'heavy stage
+2006,16:10:00,16:40:00,00:30:00,Panik / Guns Up,Sunday,Hard'n'heavy stage
 2007,17:15:00,17:45:00,00:30:00,Primal Age,Sunday,Discover stage
 2006,11:30:00,12:00:00,00:30:00,Prostitute Disfigurement,Sunday,Mainstage
 2015,11:05:00,11:35:00,00:30:00,Providence,Saturday,The Warzone
 2008,13:20:00,13:50:00,00:30:00,Raintime,Friday,Discover stage
 2016,11:05:00,11:35:00,00:30:00,RavenEye,Sunday,Mainstage 01
 2011,12:30:00,13:00:00,00:30:00,Red Fang,Sunday,Terrorizer tent
-2008,12:30:00,13:00:00,00:30:00,Red Mourningÿ(Concours Hard Rock),Friday,Discover stage
+2008,12:30:00,13:00:00,00:30:00,Red Mourning (Concours Hard Rock),Friday,Discover stage
 2013,10:30:00,11:00:00,00:30:00,Regarde les hommes tomber,Saturday,The Valley
 2013,12:15:00,12:45:00,00:30:00,Retox,Saturday,The Warzone
 2006,15:00:00,15:30:00,00:30:00,Ringworm,Saturday,Hard'n'heavy stage
@@ -234,18 +234,18 @@ year,start,end,duration,band,day,stage
 2010,11:40:00,12:10:00,00:30:00,Sabaton,Sunday,Mainstage 02
 2007,13:30:00,14:00:00,00:30:00,Salem,Saturday,Gibson stage
 2014,11:40:00,12:10:00,00:30:00,Satan's Satyrs,Sunday,The Valley
-2010,13:00:00,13:30:00,00:30:00,Savioursÿ,Sunday,Terrorizer tent
+2010,13:00:00,13:30:00,00:30:00,Saviours ,Sunday,Terrorizer tent
 2007,15:30:00,16:00:00,00:30:00,Scarve,Sunday,Gibson stage
 2014,11:40:00,12:10:00,00:30:00,Scorpion Child,Sunday,Mainstage 02
-2007,15:30:00,16:00:00,00:30:00,Secrets of the Moonÿ,Friday,Gibson stage
+2007,15:30:00,16:00:00,00:30:00,Secrets of the Moon ,Friday,Gibson stage
 2010,13:00:00,13:30:00,00:30:00,Sigh,Friday,Terrorizer tent
 2007,15:45:00,16:15:00,00:30:00,Slit,Saturday,Discover stage
-2006,11:00:00,11:30:00,00:30:00,Sna-fu aka (Grand D‚sordre Orchestre),Sunday,Hard'n'heavy stage
-2010,11:20:00,11:50:00,00:30:00,Solaceÿ,Sunday,Terrorizer tent
+2006,11:00:00,11:30:00,00:30:00,Sna-fu aka (Grand Désordre Orchestre),Sunday,Hard'n'heavy stage
+2010,11:20:00,11:50:00,00:30:00,Solace ,Sunday,Terrorizer tent
 2006,12:00:00,12:30:00,00:30:00,Sonny Red,Friday,Hard'n'heavy stage
 2009,11:35:00,12:05:00,00:30:00,Squealer,Friday,Mainstage 01
 2013,11:40:00,12:10:00,00:30:00,Srutr,Saturday,The Valley
-2013,11:40:00,12:10:00,00:30:00,SSSÿ,Friday,Mainstage 02
+2013,11:40:00,12:10:00,00:30:00,SSS ,Friday,Mainstage 02
 2016,11:05:00,11:35:00,00:30:00,Steak Number Eight,Saturday,Mainstage 01
 2012,12:15:00,12:45:00,00:30:00,Steel Panther,Saturday,Mainstage 01
 2015,11:05:00,11:35:00,00:30:00,Sticky Boys,Friday,Mainstage 01
@@ -261,7 +261,7 @@ year,start,end,duration,band,day,stage
 2013,11:40:00,12:10:00,00:30:00,Svart Crown,Sunday,The Temple
 2010,11:40:00,12:10:00,00:30:00,Swallow the Sun,Friday,Mainstage 02
 2007,20:15:00,20:45:00,00:30:00,Sworn Enemy,Saturday,Discover stage
-2013,11:05:00,11:35:00,00:30:00,T.A.N.K.ÿ(Think of A New Kind),Saturday,The Altar
+2013,11:05:00,11:35:00,00:30:00,T.A.N.K. (Think of A New Kind),Saturday,The Altar
 2006,13:00:00,13:30:00,00:30:00,Taint,Saturday,Hard'n'heavy stage
 2010,11:40:00,12:10:00,00:30:00,Tamtrum,Saturday,Mainstage 02
 2014,11:40:00,12:10:00,00:30:00,Temple of Baal,Saturday,The Temple
@@ -306,14 +306,14 @@ year,start,end,duration,band,day,stage
 2014,10:30:00,11:00:00,00:30:00,Watertank,Sunday,The Valley
 2014,11:05:00,11:35:00,00:30:00,Weekend Nachos,Friday,The Altar
 2011,11:45:00,12:15:00,00:30:00,Whiplash,Saturday,Mainstage 02
-2012,11:40:00,12:10:00,00:30:00,Winterfyllethÿ,Sunday,The Temple
+2012,11:40:00,12:10:00,00:30:00,Winterfylleth ,Sunday,The Temple
 2016,10:30:00,11:00:00,00:30:00,Witches,Friday,The Altar
 2015,10:30:00,11:00:00,00:30:00,Witchthroat Serpent,Sunday,The Valley
 2006,17:20:00,17:50:00,00:30:00,With Honor,Friday,Hard'n'heavy stage
 2012,11:40:00,12:10:00,00:30:00,Year Of No Light,Sunday,The Valley
 2014,10:30:00,11:00:00,00:30:00,Year of the Goat,Sunday,Mainstage 02
-2011,12:30:00,13:00:00,00:30:00,Your Demiseÿ,Saturday,Terrorizer tent
-2008,13:20:00,13:50:00,00:30:00,Your Demiseÿ,Sunday,Discover stage
+2011,12:30:00,13:00:00,00:30:00,Your Demise ,Saturday,Terrorizer tent
+2008,13:20:00,13:50:00,00:30:00,Your Demise ,Sunday,Discover stage
 2007,15:45:00,16:15:00,00:30:00,Zero Mentality,Friday,Discover stage
 2007,13:30:00,14:00:00,00:30:00,Zubrowska,Saturday,Discover stage
 2015,10:30:00,11:00:00,00:30:00,Zuul FX,Saturday,Mainstage 02
@@ -323,7 +323,7 @@ year,start,end,duration,band,day,stage
 2006,22:20:00,23:00:00,00:40:00,Agnostic Front,Sunday,Hard'n'heavy stage
 2008,13:20:00,14:00:00,00:40:00,Airbourne,Saturday,Mainstage
 2012,12:50:00,13:30:00,00:40:00,Alcest,Sunday,The Valley
-2008,15:00:00,15:40:00,00:40:00,Alchemistÿ,Friday,Discover stage
+2008,15:00:00,15:40:00,00:40:00,Alchemist ,Friday,Discover stage
 2016,13:35:00,14:15:00,00:40:00,All Pigs Must Die,Friday,The Warzone
 2012,12:50:00,13:30:00,00:40:00,All Shall Perish,Sunday,Mainstage 02
 2009,14:25:00,15:05:00,00:40:00,All Shall Perish,Saturday,Terrorizer tent
@@ -341,7 +341,7 @@ year,start,end,duration,band,day,stage
 2012,14:20:00,15:00:00,00:40:00,August Burns Red,Sunday,Mainstage 02
 2013,16:00:00,16:40:00,00:40:00,Aura Noir,Friday,The Temple
 2009,16:40:00,17:20:00,00:40:00,Aura Noir,Saturday,Rock Hard tent
-2008,14:00:00,14:40:00,00:40:00,Ava Inferiÿ,Friday,Discover stage
+2008,14:00:00,14:40:00,00:40:00,Ava Inferi ,Friday,Discover stage
 2006,17:50:00,18:30:00,00:40:00,Avenged Sevenfold,Friday,Mainstage
 2009,14:25:00,15:05:00,00:40:00,Backyard Babies,Friday,Mainstage 01
 2015,16:00:00,16:40:00,00:40:00,Backyard Babies,Saturday,Mainstage 02
@@ -375,10 +375,10 @@ year,start,end,duration,band,day,stage
 2007,17:10:00,17:50:00,00:40:00,Chimaira,Friday,Mainstage
 2011,14:40:00,15:20:00,00:40:00,Church of Misery,Friday,Terrorizer tent
 2008,23:00:00,23:40:00,00:40:00,Comeback Kid,Sunday,Discover stage
-2010,13:45:00,14:25:00,00:40:00,Condko‹,Saturday,Rock Hard tent
+2010,13:45:00,14:25:00,00:40:00,Condkoï,Saturday,Rock Hard tent
 2007,19:10:00,19:50:00,00:40:00,Converge,Sunday,Gibson stage
 2015,15:05:00,15:45:00,00:40:00,Craft,Saturday,The Temple
-2012,13:35:00,14:15:00,00:40:00,Crashd‹et,Saturday,Mainstage 01
+2012,13:35:00,14:15:00,00:40:00,Crashdïet,Saturday,Mainstage 01
 2016,12:50:00,13:30:00,00:40:00,Crobot,Saturday,The Valley
 2010,12:50:00,13:30:00,00:40:00,Crowbar,Friday,Mainstage 02
 2014,13:35:00,14:15:00,00:40:00,Crowbar,Sunday,Mainstage 01
@@ -401,14 +401,14 @@ year,start,end,duration,band,day,stage
 2011,13:30:00,14:10:00,00:40:00,Deez Nuts,Saturday,Terrorizer tent
 2015,15:05:00,15:45:00,00:40:00,Defeater,Friday,The Warzone
 2010,12:15:00,12:55:00,00:40:00,Delain,Saturday,Mainstage 01
-2009,15:10:00,15:50:00,00:40:00,Destr”yer 666,Friday,Rock Hard tent
+2009,15:10:00,15:50:00,00:40:00,Deströyer 666,Friday,Rock Hard tent
 2009,16:40:00,17:20:00,00:40:00,Destruction,Sunday,Mainstage 02
 2009,15:55:00,16:35:00,00:40:00,DevilDriver,Saturday,Mainstage 01
 2006,20:55:00,21:35:00,00:40:00,DevilDriver,Saturday,Hard'n'heavy stage
 2012,15:05:00,15:45:00,00:40:00,Discharge,Friday,The Warzone
 2010,13:00:00,13:40:00,00:40:00,Discipline,Saturday,Terrorizer tent
 2008,15:00:00,15:40:00,00:40:00,Disfear,Saturday,Discover stage
-2012,12:50:00,13:30:00,00:40:00,Doomridersÿ,Friday,The Valley
+2012,12:50:00,13:30:00,00:40:00,Doomriders ,Friday,The Valley
 2016,14:20:00,15:00:00,00:40:00,DragonForce,Sunday,Mainstage 02
 2009,15:55:00,16:35:00,00:40:00,DragonForce,Sunday,Mainstage 01
 2011,13:00:00,13:40:00,00:40:00,Dwarves,Friday,Mainstage 02
@@ -435,8 +435,8 @@ year,start,end,duration,band,day,stage
 2014,12:50:00,13:30:00,00:40:00,Fueled By Fire,Friday,Mainstage 02
 2006,19:00:00,19:40:00,00:40:00,Gbh,Sunday,Mainstage
 2015,14:20:00,15:00:00,00:40:00,Ghost Brigade,Saturday,Mainstage 02
-2010,14:50:00,15:30:00,00:40:00,Ghost Brigadeÿ,Friday,Terrorizer tent
-2008,15:00:00,15:40:00,00:40:00,Ghost Brigadeÿ,Sunday,Discover stage
+2010,14:50:00,15:30:00,00:40:00,Ghost Brigade ,Friday,Terrorizer tent
+2008,15:00:00,15:40:00,00:40:00,Ghost Brigade ,Sunday,Discover stage
 2009,12:55:00,13:35:00,00:40:00,Girlschool,Friday,Mainstage 01
 2016,13:35:00,14:15:00,00:40:00,Glenn Hughes,Saturday,Mainstage 01
 2009,13:40:00,14:20:00,00:40:00,God Forbid,Friday,Mainstage 02
@@ -454,7 +454,7 @@ year,start,end,duration,band,day,stage
 2013,16:00:00,16:40:00,00:40:00,Hellyeah,Friday,Mainstage 02
 2011,14:40:00,15:20:00,00:40:00,Hemoragy,Saturday,Mainstage 02
 2015,15:05:00,15:45:00,00:40:00,Hollywood Undead,Sunday,Mainstage 01
-2009,14:25:00,15:05:00,00:40:00,Holyhellÿ,Sunday,Mainstage 01
+2009,14:25:00,15:05:00,00:40:00,Holyhell ,Sunday,Mainstage 01
 2013,13:35:00,14:15:00,00:40:00,Hooded Menace,Friday,The Altar
 2006,20:55:00,21:35:00,00:40:00,Ignite,Friday,Hard'n'heavy stage
 2008,00:00:00,00:40:00,00:40:00,Impaled Nazarene,Saturday,Discover stage
@@ -479,10 +479,10 @@ year,start,end,duration,band,day,stage
 2008,20:00:00,20:40:00,00:40:00,Kruger,Friday,Discover stage
 2007,16:00:00,16:40:00,00:40:00,Lamb of God,Friday,Mainstage
 2011,12:05:00,12:45:00,00:40:00,Last Days of Humanity,Sunday,Rock Hard tent
-2013,13:35:00,14:15:00,00:40:00,Le Bal des Enrag‚s,Sunday,The Warzone
-2016,14:20:00,15:00:00,00:40:00,Le Bal des Enrag‚s,Friday,Mainstage 02
+2013,13:35:00,14:15:00,00:40:00,Le Bal des Enragés,Sunday,The Warzone
+2016,14:20:00,15:00:00,00:40:00,Le Bal des Enragés,Friday,Mainstage 02
 2015,12:50:00,13:30:00,00:40:00,Leng Tch'e,Friday,The Altar
-2012,12:50:00,13:30:00,00:40:00,Liturgyÿ,Sunday,The Temple
+2012,12:50:00,13:30:00,00:40:00,Liturgy ,Sunday,The Temple
 2012,13:35:00,14:15:00,00:40:00,Lizzy Borden,Friday,Mainstage 01
 2009,13:40:00,14:20:00,00:40:00,Mad Sin,Saturday,Mainstage 02
 2006,15:30:00,16:10:00,00:40:00,Mad Sin,Sunday,Mainstage
@@ -554,7 +554,7 @@ year,start,end,duration,band,day,stage
 2008,19:00:00,19:40:00,00:40:00,Rotting Christ,Friday,Discover stage
 2014,12:50:00,13:30:00,00:40:00,Ruins of Beverast,Sunday,The Temple
 2015,14:20:00,15:00:00,00:40:00,Russian Circles,Sunday,The Valley
-2010,16:00:00,16:40:00,00:40:00,Rwakeÿ,Sunday,Terrorizer tent
+2010,16:00:00,16:40:00,00:40:00,Rwake ,Sunday,Terrorizer tent
 2011,12:05:00,12:45:00,00:40:00,S.U.P.,Sunday,Mainstage 01
 2016,14:20:00,15:00:00,00:40:00,Sadist,Friday,The Altar
 2015,12:50:00,13:30:00,00:40:00,Samsara Blues Experiment,Friday,The Valley
@@ -570,7 +570,7 @@ year,start,end,duration,band,day,stage
 2015,14:20:00,15:00:00,00:40:00,Shape of Despair,Friday,The Altar
 2016,13:35:00,14:15:00,00:40:00,Shinedown,Friday,Mainstage 01
 2008,21:00:00,21:40:00,00:40:00,Shining,Saturday,Discover stage
-2016,13:35:00,14:15:00,00:40:00,Sk lm”ld,Sunday,The Temple
+2016,13:35:00,14:15:00,00:40:00,Skálmöld,Sunday,The Temple
 2016,12:50:00,13:30:00,00:40:00,Skeletal Remains,Friday,The Altar
 2014,13:35:00,14:15:00,00:40:00,Skid Row,Saturday,Mainstage 01
 2009,15:10:00,15:50:00,00:40:00,Skinless,Saturday,Rock Hard tent
@@ -579,7 +579,7 @@ year,start,end,duration,band,day,stage
 2008,14:10:00,14:50:00,00:40:00,Sodom,Saturday,Second stage
 2009,15:55:00,16:35:00,00:40:00,Soilent Green,Friday,Terrorizer tent
 2016,13:35:00,14:15:00,00:40:00,Solefald,Friday,The Temple
-2012,12:50:00,13:30:00,00:40:00,S¢lstafir,Friday,The Temple
+2012,12:50:00,13:30:00,00:40:00,Sólstafir,Friday,The Temple
 2008,15:00:00,15:40:00,00:40:00,Sonata Arctica,Saturday,Mainstage
 2006,19:00:00,19:40:00,00:40:00,Stone Sour,Friday,Mainstage
 2012,14:20:00,15:00:00,00:40:00,Street Dogs,Friday,Mainstage 02
@@ -613,7 +613,7 @@ year,start,end,duration,band,day,stage
 2015,14:20:00,15:00:00,00:40:00,Truckfighters,Friday,The Valley
 2016,15:05:00,15:45:00,00:40:00,Turnstile,Sunday,The Warzone
 2015,13:35:00,14:15:00,00:40:00,Twitching Tongues,Friday,The Warzone
-2013,14:20:00,15:00:00,00:40:00,Tìr,Friday,The Temple
+2013,14:20:00,15:00:00,00:40:00,Tır,Friday,The Temple
 2009,15:55:00,16:35:00,00:40:00,Ufomammut,Sunday,Terrorizer tent
 2014,13:35:00,14:15:00,00:40:00,Ulcerate,Sunday,The Altar
 2007,17:50:00,18:30:00,00:40:00,Unearth,Friday,Gibson stage
@@ -623,7 +623,7 @@ year,start,end,duration,band,day,stage
 2015,15:50:00,16:30:00,00:40:00,Vallenfyre,Friday,The Altar
 2013,12:50:00,13:30:00,00:40:00,Vektor,Friday,Mainstage 02
 2016,15:05:00,15:45:00,00:40:00,Victims,Friday,The Warzone
-2012,13:35:00,14:15:00,00:40:00,Victimsÿ,Friday,The Warzone
+2012,13:35:00,14:15:00,00:40:00,Victims ,Friday,The Warzone
 2016,13:35:00,14:15:00,00:40:00,Vintage Trouble,Sunday,Mainstage 01
 2015,13:35:00,14:15:00,00:40:00,Vitamin X,Saturday,The Warzone
 2009,13:40:00,14:20:00,00:40:00,Volbeat,Sunday,Mainstage 02
@@ -631,8 +631,8 @@ year,start,end,duration,band,day,stage
 2008,22:00:00,22:40:00,00:40:00,Watain,Saturday,Discover stage
 2015,14:20:00,15:00:00,00:40:00,We Are Harlot,Friday,Mainstage 02
 2015,15:50:00,16:30:00,00:40:00,Weedeater,Sunday,The Valley
-2010,14:50:00,15:30:00,00:40:00,Weedeaterÿ,Sunday,Terrorizer tent
-2010,14:00:00,14:40:00,00:40:00,Wisdom in Chainsÿ,Saturday,Terrorizer tent
+2010,14:50:00,15:30:00,00:40:00,Weedeater ,Sunday,Terrorizer tent
+2010,14:00:00,14:40:00,00:40:00,Wisdom in Chains ,Saturday,Terrorizer tent
 2014,16:10:00,16:50:00,00:40:00,Witch Mountain,Saturday,The Valley
 2016,12:50:00,13:30:00,00:40:00,Wo Fat,Friday,The Valley
 2009,14:25:00,15:05:00,00:40:00,Wolves in the Throne Room,Sunday,Terrorizer tent
@@ -673,7 +673,7 @@ year,start,end,duration,band,day,stage
 2011,14:35:00,15:20:00,00:45:00,Dagoba,Friday,Mainstage 02
 2013,15:05:00,15:50:00,00:45:00,Danko Jones,Sunday,Mainstage 01
 2015,17:25:00,18:10:00,00:45:00,Desultory,Saturday,The Altar
-2011,13:45:00,14:30:00,00:45:00,D›dheimsgard,Friday,Rock Hard tent
+2011,13:45:00,14:30:00,00:45:00,Dødheimsgard,Friday,Rock Hard tent
 2010,20:45:00,21:30:00,00:45:00,Doom,Sunday,Terrorizer tent
 2014,14:20:00,15:05:00,00:45:00,Dordeduh,Sunday,The Temple
 2014,14:20:00,15:05:00,00:45:00,Downfall of Gaia,Friday,The Valley
@@ -712,7 +712,7 @@ year,start,end,duration,band,day,stage
 2014,15:10:00,15:55:00,00:45:00,Misconduct,Saturday,The Warzone
 2009,18:15:00,19:00:00,00:45:00,Moonsorrow,Saturday,Rock Hard tent
 2011,16:15:00,17:00:00,00:45:00,Municipal Waste,Saturday,Mainstage 02
-2015,16:35:00,17:20:00,00:45:00,Mtiilation,Saturday,The Temple
+2015,16:35:00,17:20:00,00:45:00,Mütiilation,Saturday,The Temple
 2008,19:25:00,20:10:00,00:45:00,My Dying Bride,Sunday,Second stage
 2009,18:15:00,19:00:00,00:45:00,Napalm Death,Sunday,Rock Hard tent
 2006,23:00:00,23:45:00,00:45:00,Obituary,Sunday,Mainstage
@@ -785,7 +785,7 @@ year,start,end,duration,band,day,stage
 2011,21:15:00,22:05:00,00:50:00,Belphegor,Friday,Rock Hard tent
 2009,19:05:00,19:55:00,00:50:00,Betrayed,Saturday,Terrorizer tent
 2013,16:45:00,17:35:00,00:50:00,Between the Buried and Me,Friday,The Altar
-2012,16:05:00,16:55:00,00:50:00,Big Businessÿ,Saturday,The Valley
+2012,16:05:00,16:55:00,00:50:00,Big Business ,Saturday,The Valley
 2014,16:00:00,16:50:00,00:50:00,Black Tusk,Sunday,The Valley
 2014,16:55:00,17:45:00,00:50:00,BL'AST!,Saturday,The Warzone
 2016,17:40:00,18:30:00,00:50:00,Blind Guardian,Sunday,Mainstage 02
@@ -804,12 +804,12 @@ year,start,end,duration,band,day,stage
 2012,14:20:00,15:10:00,00:50:00,Death Angel,Saturday,Mainstage 02
 2014,17:50:00,18:40:00,00:50:00,Death Angel,Friday,Mainstage 02
 2013,16:45:00,17:35:00,00:50:00,Deez Nuts,Friday,The Warzone
-2014,16:00:00,16:50:00,00:50:00,Destr”yer 666,Friday,The Temple
+2014,16:00:00,16:50:00,00:50:00,Deströyer 666,Friday,The Temple
 2012,17:40:00,18:30:00,00:50:00,DevilDriver,Sunday,Mainstage 02
 2010,17:55:00,18:45:00,00:50:00,Devin Townsend Project,Sunday,Mainstage 02
 2011,20:50:00,21:40:00,00:50:00,Dirty Rotten Imbeciles,Saturday,Terrorizer tent
 2016,15:05:00,15:55:00,00:50:00,Discharge,Saturday,The Warzone
-2012,16:05:00,16:55:00,00:50:00,Djervÿ,Saturday,The Temple
+2012,16:05:00,16:55:00,00:50:00,Djerv ,Saturday,The Temple
 2012,17:00:00,17:50:00,00:50:00,Dog Eat Dog,Saturday,The Warzone
 2011,20:05:00,20:55:00,00:50:00,Doro,Sunday,Mainstage 02
 2013,17:05:00,17:55:00,00:50:00,Down,Saturday,Mainstage 01
@@ -823,7 +823,7 @@ year,start,end,duration,band,day,stage
 2013,14:20:00,15:10:00,00:50:00,Equilibrium,Saturday,The Temple
 2014,17:50:00,18:40:00,00:50:00,Equilibrium,Sunday,The Temple
 2013,16:45:00,17:35:00,00:50:00,Europe,Friday,Mainstage 01
-2013,15:05:00,15:55:00,00:50:00,Evokenÿ,Friday,The Altar
+2013,15:05:00,15:55:00,00:50:00,Evoken ,Friday,The Altar
 2015,15:50:00,16:40:00,00:50:00,Exodus,Sunday,Mainstage 02
 2012,17:55:00,18:45:00,00:50:00,Exodus,Saturday,Mainstage 02
 2010,19:55:00,20:45:00,00:50:00,Exodus,Sunday,Mainstage 02
@@ -890,9 +890,9 @@ year,start,end,duration,band,day,stage
 2013,16:10:00,17:00:00,00:50:00,Parkway Drive,Saturday,Mainstage 02
 2008,18:25:00,19:15:00,00:50:00,Porcupine Tree,Saturday,Mainstage
 2011,17:15:00,18:05:00,00:50:00,Primordial,Friday,Rock Hard tent
-2009,19:05:00,19:55:00,00:50:00,Queensr˜che,Sunday,Mainstage 01
+2009,19:05:00,19:55:00,00:50:00,Queensrÿche,Sunday,Mainstage 01
 2015,16:35:00,17:25:00,00:50:00,Ramoneurs de Menhirs,Sunday,The Warzone
-2016,16:45:00,17:35:00,00:50:00,Ratos de PorÆo,Sunday,The Warzone
+2016,16:45:00,17:35:00,00:50:00,Ratos de Porão,Sunday,The Warzone
 2013,19:50:00,20:40:00,00:50:00,Red Fang,Saturday,The Valley
 2009,21:55:00,22:45:00,00:50:00,Repulsion,Friday,Rock Hard tent
 2013,18:00:00,18:50:00,00:50:00,Rotting Christ,Saturday,The Temple
@@ -909,14 +909,14 @@ year,start,end,duration,band,day,stage
 2012,17:55:00,18:45:00,00:50:00,Shining,Saturday,The Temple
 2016,17:40:00,18:30:00,00:50:00,Sick of it All,Saturday,Mainstage 02
 2008,18:25:00,19:15:00,00:50:00,Sick of It All,Friday,Mainstage
-2013,17:05:00,17:55:00,00:50:00,Sinisterÿ,Saturday,The Altar
+2013,17:05:00,17:55:00,00:50:00,Sinister ,Saturday,The Altar
 2016,15:05:00,15:55:00,00:50:00,Sixx:A.M.,Saturday,Mainstage 01
 2014,16:00:00,16:50:00,00:50:00,Skyclad,Saturday,The Temple
 2011,17:05:00,17:55:00,00:50:00,Skyforger,Saturday,Rock Hard tent
 2014,16:55:00,17:45:00,00:50:00,Slapshot,Friday,The Warzone
 2015,17:40:00,18:30:00,00:50:00,Sodom,Friday,Mainstage 02
 2011,19:55:00,20:45:00,00:50:00,Sodom,Saturday,Mainstage 02
-2014,19:45:00,20:35:00,00:50:00,S¢lstafir,Sunday,The Temple
+2014,19:45:00,20:35:00,00:50:00,Sólstafir,Sunday,The Temple
 2009,19:05:00,19:55:00,00:50:00,Soulfly,Saturday,Mainstage 01
 2014,15:05:00,15:55:00,00:50:00,Stick to Your Guns,Friday,The Warzone
 2009,21:55:00,22:45:00,00:50:00,Suicidal Tendencies,Sunday,Mainstage 02
@@ -1011,7 +1011,7 @@ year,start,end,duration,band,day,stage
 2010,22:30:00,23:30:00,01:00:00,Arch Enemy,Friday,Mainstage 02
 2015,23:45:00,00:45:00,01:00:00,Arch Enemy,Sunday,The Altar
 2012,22:05:00,23:05:00,01:00:00,Arcturus,Sunday,The Temple
-2012,18:20:00,19:20:00,01:00:00,Arson Anthemÿ,Friday,The Warzone
+2012,18:20:00,19:20:00,01:00:00,Arson Anthem ,Friday,The Warzone
 2013,18:35:00,19:35:00,01:00:00,Asphyx,Friday,The Altar
 2015,21:35:00,22:35:00,01:00:00,At the Gates,Sunday,The Altar
 2013,22:55:00,23:55:00,01:00:00,At the Gates,Friday,The Altar
@@ -1027,7 +1027,7 @@ year,start,end,duration,band,day,stage
 2013,19:40:00,20:40:00,01:00:00,Black Pyramid,Friday,The Valley
 2008,01:00:00,02:00:00,01:00:00,Bleeding Through,Friday,Discover stage
 2010,23:30:00,00:30:00,01:00:00,Bloodbath,Sunday,Rock Hard tent
-2012,18:35:00,19:35:00,01:00:00,Blue ™yster Cult,Sunday,Mainstage 01
+2012,18:35:00,19:35:00,01:00:00,Blue Öyster Cult,Sunday,Mainstage 01
 2015,20:05:00,21:05:00,01:00:00,Body Count ft Ice-T,Saturday,The Warzone
 2011,23:15:00,00:15:00,01:00:00,Bolt Thrower,Saturday,Rock Hard tent
 2016,21:55:00,22:55:00,01:00:00,Bring Me the Horizon,Saturday,Mainstage 02
@@ -1046,11 +1046,11 @@ year,start,end,duration,band,day,stage
 2008,01:00:00,02:00:00,01:00:00,Cavalera Conspiracy,Saturday,Mainstage
 2011,17:00:00,18:00:00,01:00:00,Cavalera Conspiracy,Sunday,Mainstage 01
 2015,18:35:00,19:35:00,01:00:00,Cavalera Conspiracy,Sunday,Mainstage 01
-2013,20:45:00,21:45:00,01:00:00,Ceremonial Oathÿ,Friday,The Altar
+2013,20:45:00,21:45:00,01:00:00,Ceremonial Oath ,Friday,The Altar
 2012,23:30:00,00:30:00,01:00:00,Children of Bodom,Sunday,The Altar
 2007,21:20:00,22:20:00,01:00:00,Children of Bodom,Saturday,Mainstage
 2015,21:35:00,22:35:00,01:00:00,Children of Bodom,Friday,The Altar
-2009,20:50:00,21:50:00,01:00:00,Coalesceÿ,Sunday,Terrorizer tent
+2009,20:50:00,21:50:00,01:00:00,Coalesce ,Sunday,Terrorizer tent
 2015,22:40:00,23:40:00,01:00:00,Cock Sparrer,Friday,The Warzone
 2012,22:05:00,23:05:00,01:00:00,Colour Haze,Friday,The Valley
 2014,20:45:00,21:45:00,01:00:00,Comeback Kid,Saturday,The Warzone
@@ -1109,7 +1109,7 @@ year,start,end,duration,band,day,stage
 2014,00:00:00,01:00:00,01:00:00,Gorgoroth,Saturday,The Temple
 2012,18:20:00,19:20:00,01:00:00,Gotthard,Friday,Mainstage 01
 2016,21:30:00,22:30:00,01:00:00,Grand Magus,Sunday,The Altar
-2016,01:00:00,02:00:00,01:00:00,Gutterd„mmerung,Saturday,The Warzone
+2016,01:00:00,02:00:00,01:00:00,Gutterdämmerung,Saturday,The Warzone
 2009,23:55:00,00:55:00,01:00:00,Hatebreed,Sunday,Mainstage 02
 2016,19:40:00,20:40:00,01:00:00,Hatebreed,Friday,Mainstage 02
 2011,23:30:00,00:30:00,01:00:00,Hawkwind,Sunday,Terrorizer tent
@@ -1125,9 +1125,9 @@ year,start,end,duration,band,day,stage
 2015,22:05:00,23:05:00,01:00:00,In Flames,Sunday,Mainstage 02
 2010,19:00:00,20:00:00,01:00:00,Infectious Grooves,Friday,Mainstage 01
 2016,21:30:00,22:30:00,01:00:00,Jane's Addiction,Sunday,The Valley
-2009,22:50:00,23:50:00,01:00:00,Jarboeÿ,Friday,Terrorizer tent
+2009,22:50:00,23:50:00,01:00:00,Jarboe ,Friday,Terrorizer tent
 2010,01:00:00,02:00:00,01:00:00,Jello Biafra and the Guantanamo School of Medicine,Saturday,Terrorizer tent
-2010,23:30:00,00:30:00,01:00:00,John Garciaÿplays Kyuss,Sunday,Terrorizer tent
+2010,23:30:00,00:30:00,01:00:00,John Garcia plays Kyuss,Sunday,Terrorizer tent
 2014,20:45:00,21:45:00,01:00:00,Kataklysm,Friday,The Altar
 2009,20:50:00,21:50:00,01:00:00,Kickback,Saturday,Terrorizer tent
 2009,23:55:00,00:55:00,01:00:00,Killing Joke,Saturday,Mainstage 02
@@ -1137,7 +1137,7 @@ year,start,end,duration,band,day,stage
 2011,21:55:00,22:55:00,01:00:00,Kreator,Saturday,Mainstage 02
 2016,00:50:00,01:50:00,01:00:00,Kvelertak,Friday,The Warzone
 2014,01:05:00,02:05:00,01:00:00,Kvelertak,Friday,The Warzone
-2011,01:00:00,02:00:00,01:00:00,KyussÿLivesÿ!,Sunday,Terrorizer tent
+2011,01:00:00,02:00:00,01:00:00,Kyuss Lives !,Sunday,Terrorizer tent
 2012,01:00:00,02:00:00,01:00:00,Lamb of God,Sunday,Mainstage 02
 2015,22:05:00,23:05:00,01:00:00,Lamb of God,Friday,Mainstage 02
 2013,22:05:00,23:05:00,01:00:00,Lordi,Sunday,Mainstage 02
@@ -1165,9 +1165,9 @@ year,start,end,duration,band,day,stage
 2008,23:50:00,00:50:00,01:00:00,Morbid Angel,Sunday,Second stage
 2013,01:05:00,02:05:00,01:00:00,Morbid Angel,Saturday,The Altar
 2011,22:10:00,23:10:00,01:00:00,Morbid Angel,Friday,Mainstage 02
-2009,01:00:00,02:00:00,01:00:00,M”tley Cre,Friday,Mainstage 01
-2015,18:35:00,19:35:00,01:00:00,Mot”rhead,Friday,Mainstage 01
-2010,20:50:00,21:50:00,01:00:00,Mot”rhead,Sunday,Mainstage 01
+2009,01:00:00,02:00:00,01:00:00,Mötley Crüe,Friday,Mainstage 01
+2015,18:35:00,19:35:00,01:00:00,Motörhead,Friday,Mainstage 01
+2010,20:50:00,21:50:00,01:00:00,Motörhead,Sunday,Mainstage 01
 2011,19:00:00,20:00:00,01:00:00,Mr. Big,Sunday,Mainstage 01
 2013,20:45:00,21:45:00,01:00:00,My Dying Bride,Saturday,The Altar
 2010,22:20:00,23:20:00,01:00:00,My Dying Bride,Saturday,Rock Hard tent
@@ -1256,7 +1256,7 @@ year,start,end,duration,band,day,stage
 2010,21:00:00,22:00:00,01:00:00,Watain,Friday,Rock Hard tent
 2014,21:50:00,22:50:00,01:00:00,Watain,Friday,The Temple
 2015,23:45:00,00:45:00,01:00:00,Wovenhand,Friday,The Valley
-2012,19:45:00,20:45:00,01:00:00,Yobÿ,Saturday,The Valley
+2012,19:45:00,20:45:00,01:00:00,Yob ,Saturday,The Valley
 2015,20:40:00,21:40:00,01:00:00,ZZ Top,Saturday,Mainstage 01
 2014,01:00:00,02:05:00,01:05:00,Avenged Sevenfold,Saturday,Mainstage 02
 2010,00:55:00,02:00:00,01:05:00,Biohazard,Friday,Mainstage 02
@@ -1296,8 +1296,8 @@ year,start,end,duration,band,day,stage
 2012,22:10:00,23:25:00,01:15:00,Machine Head,Saturday,Mainstage 02
 2012,20:45:00,22:00:00,01:15:00,Madball,Sunday,The Warzone
 2016,20:45:00,22:00:00,01:15:00,Megadeth,Sunday,Mainstage 01
-2012,20:45:00,22:00:00,01:15:00,M”tley Cre,Sunday,Mainstage 01
-2008,22:25:00,23:40:00,01:15:00,Mot”rhead,Sunday,Mainstage
+2012,20:45:00,22:00:00,01:15:00,Mötley Crüe,Sunday,Mainstage 01
+2008,22:25:00,23:40:00,01:15:00,Motörhead,Sunday,Mainstage
 2013,00:00:00,01:15:00,01:15:00,Neurosis,Friday,The Valley
 2015,00:30:00,01:45:00,01:15:00,Nightwish,Sunday,Mainstage 02
 2012,22:10:00,23:25:00,01:15:00,Saint Vitus,Saturday,The Valley
@@ -1339,6 +1339,6 @@ year,start,end,duration,band,day,stage
 2006,00:30:00,02:00:00,01:30:00,Dead Kennedys,Sunday,Mainstage
 2006,00:30:00,02:00:00,01:30:00,Dead to Fall,Friday,Mainstage
 2007,01:00:00,02:00:00,01:00:00,Emperor,Sunday,Mainstage
-2006,00:30:00,02:00:00,01:30:00,Mot”rhead,Saturday,Mainstage
+2006,00:30:00,02:00:00,01:30:00,Motörhead,Saturday,Mainstage
 2007,01:00:00,02:00:00,01:00:00,Type O Negative,Saturday,Mainstage
 2012,20:50:00,22:05:00,01:15:00,Within Temptation,Saturday,Mainstage 01
