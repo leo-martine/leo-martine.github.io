@@ -46,6 +46,7 @@ d3.csv("data/prog.csv", function(prog) {
 		.ordinalColors(['#d12121'])
 		.x(d3.scale.ordinal())
 		.xUnits(dc.units.ordinal)
+		.elasticY(true)
 		.brushOn(true)
 		.dimension(year_dim)
 		.group(year_group)
