@@ -12,6 +12,9 @@ d3.csv("data/prog.csv", function(prog) {
 				if (prog[i].band == bands[y].name){
 					prog[i].origin = bands[y].origin
 				}
+				if (prog[i].band == bands[y].name){
+					prog[i].since = bands[y].since
+				}
 			}
 		}
 		
@@ -22,6 +25,7 @@ d3.csv("data/prog.csv", function(prog) {
 		var graph_duration = dc.pieChart("#graph_duration");
 		var graph_style = dc.pieChart("#graph_style");
 		var graph_origin = dc.pieChart("#graph_origin");
+		var graph_since = dc.barChart("#graph_since");
 		
 		var ndx = crossfilter(prog);
 		
@@ -40,10 +44,12 @@ d3.csv("data/prog.csv", function(prog) {
 		var origin_dim = ndx.dimension(function(d) {return d.origin});
 		var origin_group = origin_dim.group();
 		
+		var since_dim = ndx.dimension(function(d) {return d.since});
+		var since_group = since_dim.group();
+		
 		graph_year
 		.width(400)
 		.height(200)
-		.ordinalColors(['#d12121'])
 		.x(d3.scale.ordinal())
 		.xUnits(dc.units.ordinal)
 		.elasticY(true)
@@ -83,5 +89,16 @@ d3.csv("data/prog.csv", function(prog) {
 		.dimension(origin_dim)
 		.group(origin_group);
 		graph_origin.render();
+		
+		graph_since
+		.width(400)
+		.height(200)
+		.x(d3.scale.ordinal())
+		.xUnits(dc.units.ordinal)
+		.elasticY(true)
+		.brushOn(true)
+		.dimension(since_dim)
+		.group(since_group)
+		graph_since.render();
 	});
 });
