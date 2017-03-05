@@ -26,7 +26,7 @@ d3.csv("data/prog.csv", function(prog) {
 			
 			var graph_year = dc.barChart("#graph_year");
 			var graph_stage = dc.pieChart("#graph_stage");
-			var graph_duration = dc.pieChart("#graph_duration");
+			var graph_duration = dc.barChart("#graph_duration");
 			var graph_style = dc.pieChart("#graph_style");
 			var graph_since = dc.barChart("#graph_since");
 			
@@ -73,11 +73,14 @@ d3.csv("data/prog.csv", function(prog) {
 			graph_stage.render();
 			
 			graph_duration
-			.width(200)
+			.width(800)
 			.height(200)
-			.innerRadius(50)
+			.x(d3.scale.ordinal())
+			.xUnits(dc.units.ordinal)
+			.elasticY(true)
+			.brushOn(true)
 			.dimension(duration_dim)
-			.group(duration_group);
+			.group(duration_group)
 			graph_duration.render();
 			
 			graph_style
