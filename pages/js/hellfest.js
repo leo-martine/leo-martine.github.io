@@ -162,7 +162,7 @@ d3.csv("data/prog.csv", function(prog) {
 			var country_style = function(feature){
 				return new ol.style.Style({
 					image: new ol.style.Circle({
-						radius: feature.get('radius'),
+						radius: Math.sqrt(feature.get('radius'))*3,
 						fill: new ol.style.Fill({color:'rgba(255, 255, 255, 0.4)'}),
 						stroke: new ol.style.Stroke({color: 'rgba(255, 255, 255, 0.8)',width: 1})
 						}),
