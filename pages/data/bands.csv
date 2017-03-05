@@ -1,7 +1,7 @@
 name,origin,style,since
 1349,NO,Black metal,1997
 16,,,
-3 Doors Down,US,Post-grunge,1996
+3 Doors Down,US,Post+AC0-grunge,1996
 36 Crazyfists,US,Metalcore,1994
 69 Chambers,,,
 7 Weeks,,,
@@ -17,7 +17,7 @@ Acid King,US,Stoner,1993
 Adagio,FR,Progressive metal,2000
 Aerosmith,US,Hard rock,1970
 After Forever,NL,Progressive metal,1995
-Against Me!,US,Punk rock,1997
+Against Me+ACE-,US,Punk rock,1997
 Agnostic Front,US,Hardcore punk,1980
 Agoraphobic Nosebleed,US,Grindcore,1994
 Agressor,,,
@@ -47,14 +47,14 @@ Angra,BR,Power metal,1991
 Animosity ,US,Death metal,2000
 Annihilator,CA,Trash metal,1984
 Anthrax,US,Trash metal,1981
-Anti-Flag,US,Punk rock,1988
+Anti+AC0-Flag,US,Punk rock,1988
 Anvil,CA,Heavy metal,1978
 Aosoth,,,
 Apocalyptica,FI,Cello metal,1993
 Arch Enemy,SE,Melodic death metal,1996
 Archgoat,FI,Black metal,1989
 Architects,GB,Metalcore,2004
-Arcturus,NO,Avant-garde metal,1991
+Arcturus,NO,Avant+AC0-garde metal,1991
 Argile,,,
 Arkona,RU,Pagan metal,2002
 Arma Gathas,,,
@@ -99,21 +99,21 @@ Betraying the Martyrs,FR,Deathcore,2008
 Between the Buried and Me,US,Progressive metal,2000
 Big Business ,,,
 Billy Idol,GB,Punk rock,1976
-Biohazard,,,
-Birds in Raw,,,
+Biohazard,GB,Punk rock,1976
+Birds in Raw,US,Hardcore punk,1987
 Bison B.C.,,,
-Black Bomb A,,,
+Black Bomb A,CA,Heavy metal,2006
 Black Breath,,,
 Black Cobra,,,
-Black Label Society,,,
-Black Pyramid,,,
+Black Label Society,US,Heavy metal,2001
+Black Pyramid,US,Heavy metal,1998
 Black Sabbath,,,
-Black Spiders ,,,
-Black Tide,,,
+Black Spiders ,GB,Heavy metal,1968
+Black Tide,GB,Hard rock,2008
 Black Tusk,,,
 Blacklodge,,,
 Blasph?me,,,
-BL'AST!,,,
+BL'AST+ACE-,,,
 Blazing War Machine,,,
 Bleeding Through,,,
 Blind Guardian,,,
@@ -123,7 +123,7 @@ Bloodbath,,,
 Bloodsimple,,,
 Blue ?yster Cult,,,
 Blues Pills,,,
-Body Count ft Ice-T,,,
+Body Count ft Ice+AC0-T,,,
 Bolt Thrower,,,
 B?lzer,,,
 Borgne,,,
@@ -195,7 +195,7 @@ Cradle of Filth,,,
 Craft,,,
 Crashd?et,,,
 Crobot,,,
-Cro-Mags,,,
+Cro+AC0-Mags,,,
 Crossfaith,,,
 Crowbar,,,
 Cruachan,,,
@@ -236,7 +236,7 @@ Defeater,,,
 Deftones,,,
 Deicide,,,
 Delain,,,
-Demented Are Go!,,,
+Demented Are Go+ACE-,,,
 Der Weg einer Freiheit,,,
 Despise You,,,
 Destinity,,,
@@ -245,7 +245,7 @@ Destruction,,,
 Desultory,,,
 DevilDriver,,,
 Devin Townsend Project,,,
-Dew-Scented,,,
+Dew+AC0-Scented,,,
 Dimmu Borgir,,,
 Dirty Fonzy,,,
 Dirty Rotten Imbeciles,,,
@@ -276,7 +276,7 @@ Duff McKagan's Loaded,,,
 Dust Bolt,,,
 Dwarves,,,
 Dying Fetus,,,
-Dylath-Leen,,,
+Dylath+AC0-Leen,,,
 D?se,,,
 Eagle Twin,,,
 Earth,,,
@@ -476,7 +476,7 @@ Kronos,,,
 Kruger,,,
 Kvelertak,,,
 Kylesa,,,
-Kyuss Lives !,,,
+Kyuss Lives +ACE-,,,
 L7,,,
 Lamb of God,,,
 Last Days of Humanity,,,
@@ -546,7 +546,7 @@ Miss May I,,,
 Mistaken Element,,,
 Moho,,,
 Molly Hatchet,,,
-Monarch!,,,
+Monarch+ACE-,,,
 Mondo Generator,,,
 Monkey 3,,,
 Monolord,,,
@@ -603,7 +603,7 @@ Obliteration,,,
 Obscura,,,
 October File,,,
 Of Mice and Men,,,
-Off!,,,
+Off+ACE-,,,
 Omega Massif,,,
 Onslaught,,,
 Opeth,,,
@@ -640,7 +640,7 @@ Primal Fear,,,
 Primordial,,,
 Procession,,,
 Prong,,,
-Pro-Pain,,,
+Pro+AC0-Pain,,,
 Prostitute Disfigurement,,,
 Protest the Hero,,,
 Providence,,,
@@ -724,7 +724,7 @@ Slayer,,,
 Sleep,,,
 Slipknot,,,
 Slit,,,
-Sna-fu aka (Grand D?sordre Orchestre),,,
+Sna+AC0-fu aka (Grand D?sordre Orchestre),,,
 Snot,,,
 Sodom,,,
 Soilent Green,,,
@@ -795,7 +795,7 @@ The Casualties,,,
 The Crown,,,
 The Cult,,,
 The Damned Things,,,
-The Decline!,,,
+The Decline+ACE-,,,
 The Devil's Blood,,,
 The Dillinger Escape Plan,,,
 The Exploited,,,
@@ -813,7 +813,7 @@ The Quireboys,,,
 The Rodeo Idiot Engine,,,
 The Ruins of Beverast,,,
 the Secret,,,
-The Set-Up,,,
+The Set+AC0-Up,,,
 The Shrine,,,
 The Skull,,,
 The Spudmonsters,,,
@@ -862,7 +862,7 @@ UK Subs,,,
 Ulcerate,,,
 Ultra Vomit,,,
 Ulver,,,
-Uncle Acid & the Deadbeats,,,
+Uncle Acid +ACY- the Deadbeats,,,
 Undead Prophecies,,,
 Unearth,,,
 Unexpect,,,
@@ -920,7 +920,7 @@ Wo Fat,,,
 Wolfbrigade,,,
 Wolves in the Throne Room,,,
 Wovenhand,,,
-Y&T,,,
+Y+ACY-T,,,
 Yawning Man,,,
 Year Of No Light,,,
 Year of the Goat,,,
