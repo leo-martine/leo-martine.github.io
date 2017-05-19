@@ -1,174 +1,103 @@
-
-var c
-
-d3.csv("data/prog.csv", function(prog) {
-	
-	d3.csv("data/bands.csv", function(bands) {
-		
-		d3.csv("data/countries.csv", function(countries) {
-		
-			for (var i in prog){
-				for (var y in bands){
-					if (prog[i].band == bands[y].name){
-						prog[i].style = bands[y].style
-					}
-					if (prog[i].band == bands[y].name){
-						prog[i].origin = bands[y].origin
-					}
-					if (prog[i].band == bands[y].name){
-						prog[i].since = bands[y].since
-					}
-				}
-			}
-			
-			c = countries
-			
-			
-			var graph_year = dc.barChart("#graph_year");
-			var graph_stage = dc.pieChart("#graph_stage");
-			var graph_duration = dc.barChart("#graph_duration");
-			var graph_style = dc.pieChart("#graph_style");
-			var graph_since = dc.barChart("#graph_since");
-			
-			var ndx = crossfilter(prog);
-			
-			var year_dim = ndx.dimension(function(d) {return d.year});
-			var year_group = year_dim.group();
-			
-			var stage_dim = ndx.dimension(function(d) {return d.stage});
-			var stage_group = stage_dim.group();
-			
-			var duration_dim = ndx.dimension(function(d) {return d.duration});
-			var duration_group = duration_dim.group();
-			
-			var style_dim = ndx.dimension(function(d) {return d.style});
-			var style_group = style_dim.group();
-			
-			var since_dim = ndx.dimension(function(d) {return d.since});
-			var since_group = since_dim.group();
-			
-			var origin_dim = ndx.dimension(function(d) {return d.origin});
-			var origin_group = origin_dim.group();
-			
-			graph_year
-			.width(400)
-			.height(200)
-			.x(d3.scale.ordinal())
-			.xUnits(dc.units.ordinal)
-			.elasticY(true)
-			.brushOn(true)
-			.dimension(year_dim)
-			.group(year_group)
-			.on('renderlet', function () {
-				filterMap()
-			});
-			graph_year.render();
-			
-			graph_stage
-			.width(200)
-			.height(200)
-			.innerRadius(50)
-			.dimension(stage_dim)
-			.group(stage_group);
-			graph_stage.render();
-			
-			graph_duration
-			.width(800)
-			.height(200)
-			.x(d3.scale.ordinal())
-			.xUnits(dc.units.ordinal)
-			.elasticY(true)
-			.brushOn(true)
-			.dimension(duration_dim)
-			.group(duration_group)
-			graph_duration.render();
-			
-			graph_style
-			.width(200)
-			.height(200)
-			.innerRadius(50)
-			.dimension(style_dim)
-			.group(style_group);
-			graph_style.render();
-			
-			graph_since
-			.width(400)
-			.height(200)
-			.x(d3.scale.ordinal())
-			.xUnits(dc.units.ordinal)
-			.elasticY(true)
-			.brushOn(true)
-			.dimension(since_dim)
-			.group(since_group)
-			graph_since.render();
-			
-			//map
-			var map = new ol.Map({
-				target: 'map',
-				view: new ol.View({
-				  projection: 'EPSG:4326',
-				  center: [0,0],
-				  zoom: 2,
-				  maxZoom:15
-				})
-			});
-			
-			var basemap = new ol.layer.Tile({
-			
-			source: new ol.source.XYZ({
-			  url: 'http://a.tile.thunderforest.com/spinal-map/{z}/{x}/{y}.png?apikey=db5ae1f5778a448ca662554581f283c5',
-			  wrapX: false,
-			  crossOrigin: 'anonymous'
-			})
-		  });
-		  
-	basemap.setMap(map);
-			
-			var countries_layer = new ol.layer.Vector({
-				source: new ol.source.Vector({}),
-				 style: new ol.style.Style({
-					 zIndex:50,
-					 image: new ol.style.Circle({
-						 radius: 4,
-						 fill: new ol.style.Fill({color: 'rgba(0, 0, 0, 0)'}),
-						 stroke: new ol.style.Stroke({color: 'rgba(0, 0, 0, 0)',width: 1})
-					 })
-				 })
-			}); 
-			countries_layer.setMap(map)
-			
-			var GeoJsonFormat = new ol.format.GeoJSON();
-			
-			for (var i in c){
-				var p = turf.point([c[i].longitude,c[i].latitude],c[i]);
-				countries_layer.getSource().addFeatures(GeoJsonFormat.readFeatures(p));
-			}
-			
-			function filterMap(){
-				var d = origin_group.all()
-				var f = countries_layer.getSource().getFeatures();
-				for (var i in d){
-					for (var y in f){
-						if (d[i].key){
-							if (d[i].key == f[y].get('iso2')){
-								f[y].set('radius',Number(d[i].value))
-							}	
+$( document ).ready(function() {
+	$('#map-year-filter').hide()
+	$('#map-style-filter').hide()
+	d3.csv("data/prog.csv", function(prog) {	
+		d3.csv("data/bands.csv", function(bands) {
+			d3.csv("data/countries.csv", function(countries) {
+				for (var i in prog){
+					for (var y in bands){
+						if (prog[i].band == bands[y].name){
+							prog[i].style = bands[y].style
+						}
+						if (prog[i].band == bands[y].name){
+							prog[i].origin = bands[y].origin
+						}
+						if (prog[i].band == bands[y].name){
+							prog[i].since = bands[y].since
 						}
 					}
 				}
-				countries_layer.setStyle(country_style)
-			}
-			
-			var country_style = function(feature){
-				return new ol.style.Style({
-					image: new ol.style.Circle({
-						radius: Math.sqrt(feature.get('radius'))*3,
-						fill: new ol.style.Fill({color:'rgba(255, 255, 255, 0.4)'}),
-						stroke: new ol.style.Stroke({color: 'rgba(255, 255, 255, 0.8)',width: 1})
-						}),
-					zIndex:50
-				});
-			};	
-		});
+				hellfest(prog,bands,countries)
+			})
+		})
+	})
+})
+
+function hellfest(prog,bands,countries){
+	$('.number-bands').html(bands.length+'<br>Groupes') // number of bands
+	$('.number-concerts').html(prog.length+'<br>Concerts') // number of concerts
+	var ndx = crossfilter(prog);
+	var genreDim = ndx.dimension(function(d){return d.style});
+	var genreGroup = genreDim.group();
+	$('.number-genres').html(genreGroup.all().length+'<br>Genres') // number of genres
+	var originDim = ndx.dimension(function(d){return d.origin});
+	var originGroup = originDim.group();
+	$('.number-pays').html(originGroup.all().length+'<br>Pays') // number of pays
+	
+	var yearDim = ndx.dimension(function(d){return d.year});
+	var yearGroup = yearDim.group(); // year dim
+	
+	// Map
+	
+	var map = L.map('map').setView([0, 0], 2);
+	var Stamen_TonerLite = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.{ext}', {
+		attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+		subdomains: 'abcd',
+		minZoom: 0,
+		maxZoom: 20,
+		ext: 'png'
+	}).addTo(map);
+	
+	for (var i in yearGroup.all()){
+		if (yearGroup.all()[i].key){
+			$("#map-sel-year").append('<option value="'+yearGroup.all()[i].key+'">'+yearGroup.all()[i].key+'</option>')
+		}
+	}
+	
+	for (var i in genreGroup.all()){
+		if (genreGroup.all()[i].key){
+			$("#map-sel-style").append('<option value="'+genreGroup.all()[i].key+'">'+genreGroup.all()[i].key+'</option>')
+		}
+	}
+	
+	$(".map-filters").click(function() {
+		var filter = $(this).attr('name');
+		if (filter == "map-all-groups"){
+			$('#map-year-filter').hide()
+			$('#map-style-filter').hide()
+		}
+		else if (filter == "map-year"){
+			$('#map-year-filter').show()
+			$('#map-style-filter').hide()
+		}
+		else if (filter == "map-style"){
+			$('#map-year-filter').hide()
+			$('#map-style-filter').show()
+		}
 	});
-});
+
+	var originGroupAll = originGroup.all()
+	console.log(originGroupAll)
+	console.log(countries)
+	for (var i in originGroupAll){
+		for (var y in countries){
+			if (originGroupAll[i].key == countries[y].iso2){
+				var markerCircle = new L.circleMarker([countries[y].latitude, countries[y].longitude], {
+					color: '#C70039',
+					fillColor: '#C70039',
+					fillOpacity: 0.5,
+					weight:1.5,
+					radius: Math.sqrt(originGroupAll[i].value)*3.14
+				}).addTo(map);
+				markerCircle.bindPopup(countries[y].name+': '+originGroupAll[i].value);
+				markerCircle.on('mouseover', function (e) {
+					this.openPopup();
+				});
+				markerCircle.on('mouseout', function (e) {
+					this.closePopup();
+				});
+			}
+		}
+	}
+}
+			
