@@ -147,22 +147,22 @@ Bury Tomorrow,GB,Metalcore,2006
 Bury Your Dead,US,Metalcore,2001
 Butcher Babies,US,Heavy metal,2010
 Buzzcocks,GB,Punk rock,1976
-Caliban,,,
-Cancer Bats,,,
-Candlemass,,,
-Cannibal Corpse,,,
-Capricorns,,,
-Captain Cleanoff,,,
-Carach Angren,,,
-Carcass,,,
-Carnal Lust,,,
-Carnifex,,,
-Carnival in Coal,,,
-Carpathian Forest,,,
-Caspian,,,
-Cathedral,,,
-Cattle Decapitation,,,
-Cavalera Conspiracy,,,
+Caliban,DE,Metalcore,1997
+Cancer Bats,CA,Hardcore punk,2004
+Candlemass,SE,Doom metal,1984
+Cannibal Corpse,US,Death metal,1988
+Capricorns,GB,Progressive metal,2003
+Captain Cleanoff,AU,Grindcore,1997
+Carach Angren,NL,Symphonic black metal,2003
+Carcass,GB,Death metal,1985
+Carnal Lust,FR,Death metal,1998
+Carnifex,US,Deathcore,2005
+Carnival in Coal,FR,Avant+AC0-garde metal,1995
+Carpathian Forest,NO,Black metal,1990
+Caspian,US,Post rock,2004
+Cathedral,GB,Doom metal,1989
+Cattle Decapitation,GB,Deathgrind,1996
+Cavalera Conspiracy,US,Death metal,2007
 Celeste,,,
 Celtic Frost,,,
 Cephalic Carnage,,,
@@ -915,7 +915,7 @@ With Honor,US,Hardcore,2001
 With the Dead,UK,Doom metal,2014
 Within Temptation,NL,Symphonic metal,1995
 Wo Fat,US,Stoner rock,2003
-+ACM-NAME?,,,
+#NAME?,,,
 Wolfbrigade,SE,Hardcore punk,1995
 Wolves in the Throne Room,US,Black metal,2003
 Wovenhand,US,Alternative country,2001
@@ -929,7 +929,7 @@ Wovenhand,US,Alternative country,2001
 Y+-ACY+AC0-T,US,Heavy metal,1974
 Yawning Man,US,Stoner rock,1986
 Year Of No Light,FR,Post metal,2001
-+ACM-NAME?,,,
+#NAME?,,,
 Year of the Goat,SE,Heavy metal,2006
 Yob ,US,Doom metal,1996
 Your Demise ,GB,Hardcore punk,2003
