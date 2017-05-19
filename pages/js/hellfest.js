@@ -50,54 +50,93 @@ function hellfest(prog,bands,countries){
 	
 	for (var i in yearGroup.all()){
 		if (yearGroup.all()[i].key){
-			$("#map-sel-year").append('<option value="'+yearGroup.all()[i].key+'">'+yearGroup.all()[i].key+'</option>')
+			$("#map-sel-year").append('<option class="optionMapYear" value="'+yearGroup.all()[i].key+'">'+yearGroup.all()[i].key+'</option>')
+			
 		}
 	}
+	$('.optionMapYear').click(function(){
+		filterMapYear()
+	})
 	
 	for (var i in genreGroup.all()){
 		if (genreGroup.all()[i].key){
-			$("#map-sel-style").append('<option value="'+genreGroup.all()[i].key+'">'+genreGroup.all()[i].key+'</option>')
+			$("#map-sel-style").append('<option class="optionMapStyle" value="'+genreGroup.all()[i].key+'">'+genreGroup.all()[i].key+'</option>')
 		}
 	}
+	$('.optionMapStyle').click(function(){
+		filterMapStyle()
+	})
 	
 	$(".map-filters").click(function() {
 		var filter = $(this).attr('name');
 		if (filter == "map-all-groups"){
 			$('#map-year-filter').hide()
 			$('#map-style-filter').hide()
+			filterMapAll();
 		}
 		else if (filter == "map-year"){
 			$('#map-year-filter').show()
 			$('#map-style-filter').hide()
+			filterMapYear();
 		}
 		else if (filter == "map-style"){
 			$('#map-year-filter').hide()
 			$('#map-style-filter').show()
+			filterMapStyle();
 		}
 	});
-
-	var originGroupAll = originGroup.all()
-	console.log(originGroupAll)
-	console.log(countries)
-	for (var i in originGroupAll){
-		for (var y in countries){
-			if (originGroupAll[i].key == countries[y].iso2){
-				var markerCircle = new L.circleMarker([countries[y].latitude, countries[y].longitude], {
-					color: '#C70039',
-					fillColor: '#C70039',
-					fillOpacity: 0.5,
-					weight:1.5,
-					radius: Math.sqrt(originGroupAll[i].value)*3.14
-				}).addTo(map);
-				markerCircle.bindPopup(countries[y].name+': '+originGroupAll[i].value);
-				markerCircle.on('mouseover', function (e) {
-					this.openPopup();
-				});
-				markerCircle.on('mouseout', function (e) {
-					this.closePopup();
-				});
+	
+	function filtermap(a){
+		var max,min;
+		if (a[0].key){max = a[0].value}else {max = a[1].value}
+		min = a[a.length-1].value;
+		console.log(max,min)
+		
+		var originGroupAll = originGroup.all()
+		map.eachLayer(function (layer) {
+			if (layer._url){}
+			else{
+				map.removeLayer(layer);
+			}
+		});
+		for (var i in originGroupAll){
+			for (var y in countries){
+				if (originGroupAll[i].key == countries[y].iso2){
+					var markerCircle = new L.circleMarker([countries[y].latitude, countries[y].longitude], {
+						color: '#C70039',
+						fillColor: '#C70039',
+						fillOpacity: 0.5,
+						weight:1.5,
+						radius: (Math.sqrt(originGroupAll[i].value/max)/3.14)*(3.14*40)
+					}).addTo(map);
+					markerCircle.bindPopup(countries[y].name+': '+originGroupAll[i].value);
+					markerCircle.on('mouseover', function (e) {
+						this.openPopup();
+					});
+					markerCircle.on('mouseout', function (e) {
+						this.closePopup();
+					});
+				}
 			}
 		}
+	}
+	filtermap(originGroup.top(originGroup.all().length))
+	function filterMapAll(){
+		yearDim.filter(null);
+		genreDim.filter(null);
+		filtermap(originGroup.top(originGroup.all().length))
+	}
+	function filterMapYear(){
+		var year = $('#map-sel-year').val();
+		yearDim.filter(year);
+		genreDim.filter(null);
+		filtermap(originGroup.top(originGroup.all().length))
+	}
+	function filterMapStyle(){
+		var style = $('#map-sel-style').val();
+		genreDim.filter(style);
+		yearDim.filter(null);
+		filtermap(originGroup.top(originGroup.all().length))
 	}
 }
 			
